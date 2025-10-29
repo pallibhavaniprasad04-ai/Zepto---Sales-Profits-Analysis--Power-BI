@@ -1,4 +1,4 @@
-https://github.com/pallibhavaniprasad04-ai/Zepto---Sales-Profits-Analysis--Power-BI/blob/main/Screenshot%202025-10-29%20211427.png
+![image alt](https://github.com/pallibhavaniprasad04-ai/Zepto---Sales-Profits-Analysis--Power-BI/blob/main/Screenshot%202025-10-29%20211427.png)
 Key Insights
 
 1. Yearly Growth: Sales show a steady upward trend from 2020 to 2024, with noticeable spikes post-2022 indicating recovery and expansion.
