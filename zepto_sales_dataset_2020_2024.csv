@@ -1,0 +1,1001 @@
+OrderID,OrderDate,Region,City,CustomerID,ProductCategory,ProductName,Quantity,SalesAmount,Profit
+ZP2001,2020-07-01,East,Bhubaneswar,CUST818,Groceries,Aashirvaad Atta 5kg,5,1496.44,119.94
+ZP2002,2021-09-19,South,Chennai,CUST409,Snacks,Kurkure 90g,6,79.99,10.15
+ZP2003,2022-02-01,West,Ahmedabad,CUST651,Personal Care,Clinic Plus Shampoo,3,380.43,60.32
+ZP2004,2021-08-24,East,Kolkata,CUST930,Dairy,Amul Butter 100g,6,1619.61,192.38
+ZP2005,2021-01-19,North,Lucknow,CUST219,Household,Lizol 500ml,4,1610.04,123.59
+ZP2006,2023-02-10,East,Patna,CUST537,Snacks,Kurkure 90g,5,1168.06,180.75
+ZP2007,2023-07-31,East,Patna,CUST798,Personal Care,Clinic Plus Shampoo,3,871.9,164.1
+ZP2008,2020-04-06,North,Delhi,CUST942,Beverages,Tropicana Juice 1L,2,1489.42,399.24
+ZP2009,2024-06-24,North,Chandigarh,CUST551,Household,Harpic Toilet Cleaner,3,1968.17,370.55
+ZP2010,2024-06-28,North,Lucknow,CUST890,Dairy,Mother Dairy Curd 500g,2,691.88,66.75
+ZP2011,2020-03-04,South,Hyderabad,CUST394,Fruits & Vegetables,Bananas (1kg),6,1246.14,89.14
+ZP2012,2021-03-11,East,Patna,CUST643,Bakery,Britannia Bread,4,1638.02,154.33
+ZP2013,2022-12-05,South,Chennai,CUST358,Personal Care,Colgate Toothpaste,5,207.07,35.76
+ZP2014,2024-01-14,South,Chennai,CUST209,Beverages,Red Bull 250ml,2,109.81,9.53
+ZP2015,2024-01-30,North,Delhi,CUST194,Household,Harpic Toilet Cleaner,6,1933.57,436.89
+ZP2016,2023-03-07,West,Mumbai,CUST919,Personal Care,Clinic Plus Shampoo,6,151.04,32.13
+ZP2017,2024-05-17,North,Lucknow,CUST348,Dairy,Amul Butter 100g,4,1432.75,161.38
+ZP2018,2022-02-11,South,Bengaluru,CUST458,Dairy,Mother Dairy Curd 500g,6,827.97,49.85
+ZP2019,2020-09-16,West,Ahmedabad,CUST235,Fruits & Vegetables,Tomatoes (1kg),2,349.44,82.31
+ZP2020,2023-05-15,North,Delhi,CUST616,Dairy,Mother Dairy Curd 500g,3,1127.23,83.56
+ZP2021,2023-03-20,West,Mumbai,CUST646,Beverages,Red Bull 250ml,1,1363.96,361.0
+ZP2022,2024-12-20,North,Chandigarh,CUST575,Bakery,Biscuits,2,1608.15,233.88
+ZP2023,2024-09-23,East,Bhubaneswar,CUST381,Beverages,Coca Cola 2L,6,1962.44,371.79
+ZP2024,2023-06-20,South,Hyderabad,CUST513,Beverages,Coca Cola 2L,4,984.31,161.43
+ZP2025,2024-06-18,South,Hyderabad,CUST959,Household,Surf Excel 1kg,2,990.51,113.65
+ZP2026,2023-10-17,West,Mumbai,CUST972,Bakery,Britannia Bread,2,1064.92,246.75
+ZP2027,2020-03-13,West,Ahmedabad,CUST190,Bakery,Britannia Bread,6,1702.15,212.06
+ZP2028,2020-08-18,East,Bhubaneswar,CUST596,Personal Care,Dove Soap,4,1941.09,112.29
+ZP2029,2023-06-04,East,Bhubaneswar,CUST342,Beverages,Coca Cola 2L,6,975.14,292.33
+ZP2030,2022-10-26,North,Delhi,CUST714,Beverages,Red Bull 250ml,4,1180.4,189.13
+ZP2031,2020-02-07,North,Delhi,CUST793,Personal Care,Colgate Toothpaste,2,1865.9,314.22
+ZP2032,2021-01-28,North,Delhi,CUST831,Bakery,Cakes,4,1833.2,106.1
+ZP2033,2022-02-22,East,Kolkata,CUST346,Personal Care,Colgate Toothpaste,2,1911.22,234.21
+ZP2034,2020-01-22,West,Ahmedabad,CUST748,Snacks,Lays Chips 100g,3,1683.78,144.43
+ZP2035,2020-07-04,South,Hyderabad,CUST383,Bakery,Cakes,2,1327.33,95.0
+ZP2036,2020-09-09,East,Bhubaneswar,CUST105,Dairy,Mother Dairy Curd 500g,6,1451.38,158.75
+ZP2037,2022-09-15,West,Pune,CUST513,Fruits & Vegetables,Apples (1kg),6,1844.55,203.89
+ZP2038,2024-11-04,West,Pune,CUST132,Dairy,Amul Milk 1L,4,920.95,182.01
+ZP2039,2020-05-02,West,Mumbai,CUST274,Dairy,Amul Butter 100g,6,924.56,139.14
+ZP2040,2022-10-09,West,Pune,CUST527,Bakery,Cakes,2,191.98,21.32
+ZP2041,2023-04-13,West,Pune,CUST802,Groceries,Fortune Oil 1L,4,270.38,23.1
+ZP2042,2021-04-16,West,Pune,CUST918,Groceries,Fortune Oil 1L,1,1835.52,485.54
+ZP2043,2024-01-24,North,Delhi,CUST888,Personal Care,Clinic Plus Shampoo,1,587.78,118.94
+ZP2044,2023-07-10,East,Patna,CUST439,Beverages,Red Bull 250ml,2,1572.94,111.07
+ZP2045,2023-04-14,South,Chennai,CUST975,Snacks,Kurkure 90g,3,1330.24,90.41
+ZP2046,2024-10-13,West,Pune,CUST930,Personal Care,Colgate Toothpaste,5,784.39,170.34
+ZP2047,2024-10-31,North,Delhi,CUST380,Snacks,Kurkure 90g,3,932.81,120.84
+ZP2048,2021-04-29,North,Chandigarh,CUST629,Bakery,Biscuits,1,1884.86,299.17
+ZP2049,2022-01-24,East,Patna,CUST116,Bakery,Biscuits,4,61.8,11.96
+ZP2050,2020-08-19,South,Bengaluru,CUST376,Personal Care,Dove Soap,4,1735.45,331.62
+ZP2051,2023-06-20,North,Lucknow,CUST388,Household,Harpic Toilet Cleaner,1,1516.13,82.95
+ZP2052,2020-02-17,North,Delhi,CUST602,Dairy,Amul Milk 1L,6,1219.05,277.62
+ZP2053,2022-03-30,South,Chennai,CUST840,Beverages,Tropicana Juice 1L,3,418.31,93.69
+ZP2054,2024-02-24,East,Kolkata,CUST615,Bakery,Biscuits,5,1847.14,500.51
+ZP2055,2021-08-02,South,Bengaluru,CUST185,Groceries,Aashirvaad Atta 5kg,5,1050.15,87.29
+ZP2056,2022-05-05,West,Ahmedabad,CUST107,Groceries,Aashirvaad Atta 5kg,6,474.31,81.25
+ZP2057,2023-10-11,East,Patna,CUST662,Dairy,Amul Milk 1L,3,444.0,23.82
+ZP2058,2024-09-08,North,Chandigarh,CUST293,Personal Care,Colgate Toothpaste,6,1130.87,82.82
+ZP2059,2024-06-21,North,Chandigarh,CUST258,Groceries,Fortune Oil 1L,5,206.44,24.12
+ZP2060,2020-07-01,North,Chandigarh,CUST584,Personal Care,Clinic Plus Shampoo,1,318.07,61.56
+ZP2061,2023-09-15,South,Bengaluru,CUST648,Groceries,Tata Salt 1kg,2,1148.97,308.97
+ZP2062,2024-01-24,East,Patna,CUST478,Bakery,Cakes,4,1268.65,241.59
+ZP2063,2024-08-08,East,Patna,CUST810,Beverages,Tropicana Juice 1L,4,1663.64,496.14
+ZP2064,2020-07-02,West,Mumbai,CUST403,Fruits & Vegetables,Bananas (1kg),4,1671.08,253.37
+ZP2065,2021-04-20,West,Ahmedabad,CUST755,Snacks,Bingo Mad Angles 80g,6,1660.47,321.1
+ZP2066,2021-03-22,North,Lucknow,CUST562,Dairy,Amul Butter 100g,4,419.75,47.94
+ZP2067,2021-02-16,East,Patna,CUST945,Beverages,Red Bull 250ml,6,535.53,123.77
+ZP2068,2020-09-12,East,Bhubaneswar,CUST525,Snacks,Kurkure 90g,1,569.4,147.59
+ZP2069,2021-07-21,West,Pune,CUST299,Personal Care,Clinic Plus Shampoo,2,1403.88,77.84
+ZP2070,2024-01-11,East,Bhubaneswar,CUST677,Fruits & Vegetables,Bananas (1kg),1,1000.35,238.4
+ZP2071,2020-08-01,North,Chandigarh,CUST652,Groceries,Fortune Oil 1L,3,399.21,31.97
+ZP2072,2020-08-16,South,Hyderabad,CUST670,Bakery,Biscuits,2,1810.41,285.03
+ZP2073,2020-11-20,West,Pune,CUST248,Personal Care,Dove Soap,2,1310.64,245.98
+ZP2074,2020-11-01,West,Pune,CUST954,Dairy,Mother Dairy Curd 500g,5,801.12,110.3
+ZP2075,2024-12-27,East,Kolkata,CUST652,Bakery,Cakes,5,1695.44,184.33
+ZP2076,2021-02-23,South,Hyderabad,CUST526,Bakery,Britannia Bread,1,1128.56,325.52
+ZP2077,2022-06-17,East,Patna,CUST489,Bakery,Britannia Bread,3,750.83,193.03
+ZP2078,2020-01-14,West,Ahmedabad,CUST186,Personal Care,Colgate Toothpaste,4,224.11,13.59
+ZP2079,2022-08-28,West,Pune,CUST361,Groceries,Fortune Oil 1L,1,1356.38,120.01
+ZP2080,2024-02-16,South,Hyderabad,CUST211,Bakery,Biscuits,2,829.11,131.16
+ZP2081,2020-12-26,West,Mumbai,CUST987,Fruits & Vegetables,Apples (1kg),3,1149.71,312.83
+ZP2082,2021-03-17,West,Ahmedabad,CUST737,Snacks,Bingo Mad Angles 80g,2,1971.19,551.7
+ZP2083,2024-07-07,West,Pune,CUST225,Groceries,Fortune Oil 1L,3,1116.27,227.62
+ZP2084,2022-01-07,West,Ahmedabad,CUST390,Household,Harpic Toilet Cleaner,4,1770.34,203.9
+ZP2085,2024-02-21,West,Ahmedabad,CUST633,Personal Care,Clinic Plus Shampoo,5,1454.59,215.2
+ZP2086,2022-03-31,East,Kolkata,CUST570,Fruits & Vegetables,Bananas (1kg),4,59.89,8.89
+ZP2087,2021-08-04,South,Chennai,CUST143,Personal Care,Colgate Toothpaste,3,1177.04,321.8
+ZP2088,2023-06-23,West,Pune,CUST580,Personal Care,Clinic Plus Shampoo,2,234.22,40.8
+ZP2089,2021-09-24,West,Ahmedabad,CUST680,Household,Lizol 500ml,3,1592.6,335.61
+ZP2090,2024-05-04,South,Bengaluru,CUST155,Fruits & Vegetables,Apples (1kg),3,1674.89,140.53
+ZP2091,2023-10-22,South,Chennai,CUST438,Personal Care,Dove Soap,4,1960.46,305.75
+ZP2092,2024-08-15,North,Delhi,CUST572,Personal Care,Colgate Toothpaste,3,64.76,17.26
+ZP2093,2020-10-03,South,Bengaluru,CUST934,Snacks,Bingo Mad Angles 80g,3,792.29,128.42
+ZP2094,2022-08-18,West,Ahmedabad,CUST726,Groceries,Fortune Oil 1L,6,1846.98,385.19
+ZP2095,2022-04-15,North,Chandigarh,CUST881,Personal Care,Colgate Toothpaste,3,1923.46,350.78
+ZP2096,2020-07-01,North,Lucknow,CUST395,Bakery,Biscuits,6,1195.03,133.21
+ZP2097,2022-01-17,North,Chandigarh,CUST610,Household,Harpic Toilet Cleaner,2,1029.56,289.44
+ZP2098,2024-04-04,North,Delhi,CUST698,Beverages,Red Bull 250ml,5,941.93,64.73
+ZP2099,2020-01-28,North,Delhi,CUST446,Beverages,Coca Cola 2L,1,1939.16,299.33
+ZP2100,2024-12-08,East,Bhubaneswar,CUST330,Dairy,Amul Milk 1L,2,1964.4,498.28
+ZP2101,2021-07-12,East,Bhubaneswar,CUST158,Beverages,Coca Cola 2L,2,644.05,129.97
+ZP2102,2021-01-22,East,Kolkata,CUST178,Bakery,Cakes,1,1503.28,175.95
+ZP2103,2024-06-05,West,Pune,CUST802,Fruits & Vegetables,Tomatoes (1kg),1,691.93,182.93
+ZP2104,2023-06-27,North,Lucknow,CUST243,Groceries,Fortune Oil 1L,1,233.04,37.14
+ZP2105,2022-03-25,South,Hyderabad,CUST134,Beverages,Tropicana Juice 1L,2,644.11,36.68
+ZP2106,2022-07-29,West,Ahmedabad,CUST598,Groceries,Fortune Oil 1L,4,1340.27,156.55
+ZP2107,2022-08-24,East,Kolkata,CUST485,Groceries,Aashirvaad Atta 5kg,3,1685.22,231.91
+ZP2108,2020-01-20,North,Delhi,CUST324,Snacks,Lays Chips 100g,2,396.7,48.17
+ZP2109,2020-10-03,West,Ahmedabad,CUST807,Fruits & Vegetables,Apples (1kg),1,53.41,5.25
+ZP2110,2023-05-10,North,Delhi,CUST865,Personal Care,Colgate Toothpaste,3,1737.2,486.18
+ZP2111,2023-06-22,North,Lucknow,CUST542,Beverages,Red Bull 250ml,3,490.19,93.97
+ZP2112,2022-06-08,North,Delhi,CUST333,Bakery,Britannia Bread,4,1955.33,513.88
+ZP2113,2021-12-04,South,Chennai,CUST950,Fruits & Vegetables,Tomatoes (1kg),4,154.17,31.14
+ZP2114,2020-11-24,South,Hyderabad,CUST419,Personal Care,Colgate Toothpaste,4,1035.55,116.51
+ZP2115,2022-06-12,South,Bengaluru,CUST765,Beverages,Coca Cola 2L,4,1809.78,138.82
+ZP2116,2022-08-20,West,Ahmedabad,CUST691,Household,Lizol 500ml,2,1236.76,76.4
+ZP2117,2022-05-23,East,Patna,CUST124,Groceries,Fortune Oil 1L,5,956.11,83.31
+ZP2118,2024-01-06,East,Bhubaneswar,CUST913,Beverages,Red Bull 250ml,4,1532.22,452.72
+ZP2119,2020-12-05,West,Mumbai,CUST666,Bakery,Britannia Bread,1,1897.48,510.82
+ZP2120,2023-01-29,North,Lucknow,CUST854,Personal Care,Clinic Plus Shampoo,6,896.95,130.88
+ZP2121,2023-01-09,North,Lucknow,CUST915,Bakery,Cakes,3,1231.54,95.3
+ZP2122,2020-10-20,North,Delhi,CUST537,Dairy,Amul Butter 100g,5,1514.85,370.89
+ZP2123,2021-11-13,East,Bhubaneswar,CUST135,Snacks,Kurkure 90g,4,636.32,151.64
+ZP2124,2023-09-14,East,Kolkata,CUST162,Snacks,Kurkure 90g,2,672.28,185.85
+ZP2125,2023-04-29,South,Hyderabad,CUST358,Beverages,Tropicana Juice 1L,4,1554.94,185.52
+ZP2126,2023-01-24,East,Bhubaneswar,CUST359,Beverages,Coca Cola 2L,4,1295.92,238.8
+ZP2127,2023-06-06,North,Delhi,CUST635,Fruits & Vegetables,Tomatoes (1kg),6,1791.35,426.48
+ZP2128,2024-11-07,East,Patna,CUST143,Household,Lizol 500ml,6,1729.96,433.02
+ZP2129,2022-05-27,East,Kolkata,CUST270,Beverages,Red Bull 250ml,6,508.16,75.19
+ZP2130,2020-10-03,East,Kolkata,CUST725,Personal Care,Clinic Plus Shampoo,2,227.7,37.09
+ZP2131,2021-07-17,West,Mumbai,CUST525,Personal Care,Clinic Plus Shampoo,6,1124.06,121.6
+ZP2132,2021-03-29,West,Pune,CUST383,Beverages,Tropicana Juice 1L,6,541.21,96.89
+ZP2133,2024-05-20,North,Chandigarh,CUST754,Beverages,Red Bull 250ml,2,668.01,180.34
+ZP2134,2023-04-24,East,Bhubaneswar,CUST829,Household,Surf Excel 1kg,2,1246.14,143.49
+ZP2135,2022-10-25,East,Kolkata,CUST868,Personal Care,Colgate Toothpaste,2,1960.88,211.0
+ZP2136,2023-06-29,North,Chandigarh,CUST351,Household,Harpic Toilet Cleaner,1,702.43,165.25
+ZP2137,2021-11-26,South,Chennai,CUST346,Groceries,Fortune Oil 1L,6,1719.53,427.8
+ZP2138,2020-06-28,North,Delhi,CUST272,Personal Care,Colgate Toothpaste,4,1518.35,209.56
+ZP2139,2024-04-18,East,Kolkata,CUST743,Household,Surf Excel 1kg,4,1144.62,275.31
+ZP2140,2024-05-16,South,Bengaluru,CUST465,Snacks,Bingo Mad Angles 80g,2,1412.42,317.2
+ZP2141,2020-01-13,South,Hyderabad,CUST690,Household,Surf Excel 1kg,3,514.08,38.44
+ZP2142,2024-02-23,South,Bengaluru,CUST957,Beverages,Coca Cola 2L,4,1255.16,131.26
+ZP2143,2020-12-05,South,Bengaluru,CUST816,Snacks,Lays Chips 100g,5,776.73,216.13
+ZP2144,2021-08-27,South,Bengaluru,CUST785,Snacks,Kurkure 90g,2,1921.86,215.22
+ZP2145,2023-12-25,North,Chandigarh,CUST925,Beverages,Tropicana Juice 1L,3,1368.94,120.5
+ZP2146,2022-05-29,West,Mumbai,CUST419,Snacks,Kurkure 90g,2,807.07,49.38
+ZP2147,2021-04-04,East,Kolkata,CUST430,Beverages,Coca Cola 2L,5,880.75,136.82
+ZP2148,2020-09-23,West,Mumbai,CUST615,Groceries,Fortune Oil 1L,6,1931.32,160.79
+ZP2149,2024-07-16,West,Ahmedabad,CUST373,Personal Care,Colgate Toothpaste,1,648.99,169.82
+ZP2150,2023-07-13,East,Kolkata,CUST487,Beverages,Coca Cola 2L,2,1393.84,353.84
+ZP2151,2020-02-05,East,Bhubaneswar,CUST134,Bakery,Biscuits,6,375.03,49.05
+ZP2152,2024-06-15,East,Patna,CUST881,Fruits & Vegetables,Apples (1kg),3,164.45,38.46
+ZP2153,2024-10-08,South,Hyderabad,CUST442,Beverages,Coca Cola 2L,4,450.5,68.15
+ZP2154,2020-01-28,East,Kolkata,CUST500,Groceries,Fortune Oil 1L,2,1248.87,226.88
+ZP2155,2023-06-01,North,Lucknow,CUST193,Groceries,Aashirvaad Atta 5kg,3,236.4,60.1
+ZP2156,2021-06-28,North,Lucknow,CUST698,Household,Surf Excel 1kg,6,1136.58,248.29
+ZP2157,2024-02-09,North,Chandigarh,CUST799,Household,Surf Excel 1kg,4,1640.8,402.94
+ZP2158,2020-12-10,North,Delhi,CUST443,Household,Lizol 500ml,5,560.76,134.23
+ZP2159,2020-07-05,North,Chandigarh,CUST785,Personal Care,Clinic Plus Shampoo,1,1942.6,427.27
+ZP2160,2022-08-29,South,Chennai,CUST189,Groceries,Aashirvaad Atta 5kg,2,1431.87,357.52
+ZP2161,2024-09-30,East,Kolkata,CUST859,Beverages,Coca Cola 2L,3,1207.5,146.54
+ZP2162,2021-12-24,South,Bengaluru,CUST934,Snacks,Lays Chips 100g,5,1211.93,291.31
+ZP2163,2023-04-04,East,Bhubaneswar,CUST689,Personal Care,Colgate Toothpaste,5,1175.21,135.12
+ZP2164,2020-08-31,East,Kolkata,CUST218,Personal Care,Dove Soap,2,716.5,206.97
+ZP2165,2023-01-08,North,Lucknow,CUST650,Bakery,Biscuits,3,1651.95,492.86
+ZP2166,2021-02-05,South,Chennai,CUST996,Snacks,Kurkure 90g,2,794.27,61.97
+ZP2167,2020-10-01,North,Chandigarh,CUST443,Fruits & Vegetables,Bananas (1kg),1,657.12,50.83
+ZP2168,2023-03-23,West,Mumbai,CUST354,Personal Care,Colgate Toothpaste,1,1527.07,383.12
+ZP2169,2024-01-13,West,Ahmedabad,CUST709,Dairy,Mother Dairy Curd 500g,6,1537.6,330.37
+ZP2170,2023-03-23,North,Delhi,CUST558,Groceries,Fortune Oil 1L,3,1544.53,422.91
+ZP2171,2022-09-15,East,Kolkata,CUST186,Snacks,Kurkure 90g,4,177.76,9.92
+ZP2172,2023-05-12,South,Chennai,CUST637,Personal Care,Clinic Plus Shampoo,6,844.3,99.25
+ZP2173,2020-05-27,South,Bengaluru,CUST269,Personal Care,Clinic Plus Shampoo,1,758.59,92.85
+ZP2174,2020-07-24,West,Mumbai,CUST613,Personal Care,Colgate Toothpaste,1,346.2,73.32
+ZP2175,2020-01-27,North,Delhi,CUST108,Beverages,Coca Cola 2L,1,1873.07,365.79
+ZP2176,2023-01-21,South,Bengaluru,CUST630,Household,Surf Excel 1kg,1,817.92,220.08
+ZP2177,2022-07-02,South,Hyderabad,CUST613,Groceries,Tata Salt 1kg,1,733.15,210.84
+ZP2178,2024-09-18,East,Patna,CUST492,Snacks,Kurkure 90g,2,155.1,29.28
+ZP2179,2024-11-20,West,Pune,CUST889,Snacks,Lays Chips 100g,5,1869.49,234.54
+ZP2180,2023-07-11,West,Pune,CUST399,Household,Lizol 500ml,5,822.7,198.93
+ZP2181,2023-05-06,East,Bhubaneswar,CUST207,Dairy,Amul Milk 1L,4,112.25,11.03
+ZP2182,2024-02-15,North,Delhi,CUST767,Household,Harpic Toilet Cleaner,3,1532.67,242.07
+ZP2183,2023-11-30,East,Kolkata,CUST984,Household,Surf Excel 1kg,2,825.11,179.39
+ZP2184,2021-05-02,North,Lucknow,CUST629,Fruits & Vegetables,Tomatoes (1kg),5,660.17,33.54
+ZP2185,2020-10-26,East,Bhubaneswar,CUST228,Beverages,Red Bull 250ml,5,854.0,127.91
+ZP2186,2021-06-28,East,Kolkata,CUST468,Fruits & Vegetables,Bananas (1kg),1,1809.13,423.77
+ZP2187,2022-11-12,West,Mumbai,CUST879,Beverages,Red Bull 250ml,2,596.65,155.59
+ZP2188,2023-08-20,North,Delhi,CUST397,Dairy,Mother Dairy Curd 500g,6,502.8,124.34
+ZP2189,2021-09-07,East,Bhubaneswar,CUST170,Personal Care,Clinic Plus Shampoo,1,1910.21,254.52
+ZP2190,2020-04-07,South,Chennai,CUST607,Household,Surf Excel 1kg,1,121.33,30.77
+ZP2191,2021-02-20,West,Mumbai,CUST848,Bakery,Biscuits,3,107.88,13.91
+ZP2192,2021-03-15,West,Pune,CUST894,Bakery,Cakes,2,1532.36,179.84
+ZP2193,2022-05-18,North,Delhi,CUST719,Beverages,Red Bull 250ml,6,747.33,125.53
+ZP2194,2024-04-24,East,Patna,CUST193,Beverages,Tropicana Juice 1L,4,1132.05,174.64
+ZP2195,2020-07-17,North,Delhi,CUST732,Household,Lizol 500ml,1,1581.49,446.62
+ZP2196,2024-07-15,South,Chennai,CUST797,Snacks,Lays Chips 100g,1,460.76,35.12
+ZP2197,2021-08-12,South,Chennai,CUST314,Groceries,Aashirvaad Atta 5kg,5,1599.37,287.2
+ZP2198,2020-03-07,East,Bhubaneswar,CUST530,Beverages,Tropicana Juice 1L,5,1280.33,233.4
+ZP2199,2024-07-17,North,Lucknow,CUST596,Personal Care,Dove Soap,1,1712.37,385.16
+ZP2200,2024-05-22,West,Pune,CUST784,Household,Surf Excel 1kg,4,544.1,68.35
+ZP2201,2022-06-20,East,Patna,CUST646,Personal Care,Clinic Plus Shampoo,6,398.4,69.13
+ZP2202,2023-05-08,North,Chandigarh,CUST485,Dairy,Amul Butter 100g,5,1980.94,271.8
+ZP2203,2022-10-11,East,Bhubaneswar,CUST729,Snacks,Kurkure 90g,3,613.96,102.03
+ZP2204,2020-09-01,East,Patna,CUST846,Groceries,Tata Salt 1kg,3,1380.47,220.78
+ZP2205,2021-02-26,East,Kolkata,CUST973,Groceries,Aashirvaad Atta 5kg,1,1968.93,139.35
+ZP2206,2023-12-06,South,Chennai,CUST940,Beverages,Tropicana Juice 1L,5,791.99,193.23
+ZP2207,2021-12-26,East,Patna,CUST384,Bakery,Cakes,2,1286.31,318.15
+ZP2208,2023-09-24,South,Chennai,CUST757,Snacks,Lays Chips 100g,2,478.24,130.06
+ZP2209,2021-07-02,South,Bengaluru,CUST509,Groceries,Fortune Oil 1L,6,859.81,193.48
+ZP2210,2024-08-10,East,Bhubaneswar,CUST337,Fruits & Vegetables,Apples (1kg),3,702.82,85.36
+ZP2211,2022-03-19,West,Mumbai,CUST747,Dairy,Amul Milk 1L,4,1198.9,305.86
+ZP2212,2021-12-05,South,Chennai,CUST605,Snacks,Bingo Mad Angles 80g,5,191.27,51.79
+ZP2213,2020-11-19,North,Chandigarh,CUST620,Groceries,Aashirvaad Atta 5kg,2,1328.37,242.87
+ZP2214,2023-01-23,East,Patna,CUST441,Dairy,Mother Dairy Curd 500g,4,51.66,3.16
+ZP2215,2024-12-01,West,Mumbai,CUST236,Dairy,Mother Dairy Curd 500g,2,543.42,105.91
+ZP2216,2020-11-06,North,Lucknow,CUST477,Household,Surf Excel 1kg,4,225.34,13.22
+ZP2217,2023-04-16,North,Lucknow,CUST599,Personal Care,Colgate Toothpaste,3,107.03,22.1
+ZP2218,2020-08-11,South,Bengaluru,CUST734,Bakery,Britannia Bread,3,655.53,90.19
+ZP2219,2024-01-30,South,Hyderabad,CUST401,Fruits & Vegetables,Bananas (1kg),6,1053.94,154.42
+ZP2220,2023-07-07,West,Pune,CUST707,Bakery,Cakes,3,1621.68,276.98
+ZP2221,2024-04-20,East,Patna,CUST765,Dairy,Amul Milk 1L,5,505.94,131.36
+ZP2222,2023-07-12,South,Hyderabad,CUST686,Household,Lizol 500ml,3,845.69,53.69
+ZP2223,2021-09-25,West,Mumbai,CUST716,Dairy,Amul Milk 1L,3,1338.1,394.83
+ZP2224,2024-06-17,East,Patna,CUST384,Fruits & Vegetables,Bananas (1kg),5,1214.97,339.68
+ZP2225,2022-07-27,South,Bengaluru,CUST223,Groceries,Tata Salt 1kg,3,904.33,195.6
+ZP2226,2023-06-23,East,Patna,CUST643,Groceries,Tata Salt 1kg,2,1925.33,292.64
+ZP2227,2024-02-13,North,Lucknow,CUST485,Household,Surf Excel 1kg,5,1130.57,77.17
+ZP2228,2022-07-23,North,Delhi,CUST905,Dairy,Mother Dairy Curd 500g,6,328.85,76.68
+ZP2229,2020-01-18,East,Kolkata,CUST375,Groceries,Fortune Oil 1L,1,970.15,101.25
+ZP2230,2020-07-25,South,Bengaluru,CUST103,Household,Lizol 500ml,1,560.99,113.19
+ZP2231,2020-04-14,East,Bhubaneswar,CUST388,Personal Care,Colgate Toothpaste,4,669.71,126.46
+ZP2232,2024-03-31,South,Hyderabad,CUST268,Personal Care,Colgate Toothpaste,3,174.97,10.36
+ZP2233,2024-06-11,South,Hyderabad,CUST458,Groceries,Fortune Oil 1L,6,753.77,78.37
+ZP2234,2022-05-29,East,Bhubaneswar,CUST252,Fruits & Vegetables,Apples (1kg),3,1716.95,369.93
+ZP2235,2020-04-23,East,Patna,CUST113,Bakery,Biscuits,5,1669.85,248.13
+ZP2236,2022-04-17,East,Patna,CUST991,Bakery,Cakes,5,1462.36,205.55
+ZP2237,2022-09-22,East,Bhubaneswar,CUST658,Groceries,Aashirvaad Atta 5kg,2,1685.72,481.52
+ZP2238,2021-04-12,South,Hyderabad,CUST932,Fruits & Vegetables,Bananas (1kg),4,863.45,235.48
+ZP2239,2023-12-15,West,Mumbai,CUST676,Fruits & Vegetables,Apples (1kg),2,836.19,162.38
+ZP2240,2020-03-11,West,Pune,CUST134,Groceries,Aashirvaad Atta 5kg,3,1327.26,196.09
+ZP2241,2021-02-28,South,Hyderabad,CUST400,Groceries,Tata Salt 1kg,3,268.32,41.91
+ZP2242,2020-10-02,West,Mumbai,CUST812,Bakery,Britannia Bread,6,469.85,75.35
+ZP2243,2024-02-06,East,Bhubaneswar,CUST230,Personal Care,Clinic Plus Shampoo,4,1442.75,352.67
+ZP2244,2022-02-21,North,Chandigarh,CUST222,Dairy,Amul Butter 100g,3,1417.8,320.66
+ZP2245,2023-01-11,East,Kolkata,CUST859,Household,Harpic Toilet Cleaner,2,1485.75,117.44
+ZP2246,2022-04-29,West,Mumbai,CUST848,Household,Harpic Toilet Cleaner,1,1363.43,79.1
+ZP2247,2023-10-03,East,Kolkata,CUST525,Bakery,Britannia Bread,2,258.9,67.49
+ZP2248,2021-10-12,South,Hyderabad,CUST620,Fruits & Vegetables,Apples (1kg),4,706.64,173.45
+ZP2249,2024-02-18,South,Chennai,CUST849,Dairy,Mother Dairy Curd 500g,3,673.56,171.32
+ZP2250,2024-05-25,East,Kolkata,CUST957,Dairy,Amul Milk 1L,1,901.44,234.95
+ZP2251,2020-06-03,East,Bhubaneswar,CUST240,Household,Harpic Toilet Cleaner,3,1688.83,236.69
+ZP2252,2021-10-01,North,Lucknow,CUST806,Beverages,Coca Cola 2L,2,1299.35,118.58
+ZP2253,2021-05-19,East,Kolkata,CUST122,Groceries,Fortune Oil 1L,5,1776.73,203.74
+ZP2254,2024-12-10,West,Ahmedabad,CUST196,Personal Care,Colgate Toothpaste,4,70.77,5.01
+ZP2255,2021-07-29,South,Hyderabad,CUST354,Bakery,Biscuits,6,1114.32,141.11
+ZP2256,2024-11-01,East,Patna,CUST660,Personal Care,Dove Soap,3,1427.93,370.4
+ZP2257,2020-12-06,West,Pune,CUST517,Bakery,Cakes,2,1001.32,197.4
+ZP2258,2023-11-17,East,Kolkata,CUST823,Fruits & Vegetables,Bananas (1kg),2,1538.1,135.82
+ZP2259,2024-06-24,West,Mumbai,CUST186,Snacks,Bingo Mad Angles 80g,5,1431.11,295.63
+ZP2260,2021-04-11,East,Bhubaneswar,CUST566,Beverages,Tropicana Juice 1L,6,666.31,153.33
+ZP2261,2023-05-27,North,Chandigarh,CUST921,Snacks,Lays Chips 100g,4,63.85,8.76
+ZP2262,2020-03-17,East,Bhubaneswar,CUST552,Groceries,Aashirvaad Atta 5kg,1,1022.5,283.6
+ZP2263,2021-08-20,South,Chennai,CUST500,Personal Care,Colgate Toothpaste,1,1503.21,222.06
+ZP2264,2023-03-31,South,Hyderabad,CUST100,Beverages,Tropicana Juice 1L,5,987.92,107.93
+ZP2265,2020-05-21,North,Chandigarh,CUST403,Personal Care,Clinic Plus Shampoo,1,99.72,8.35
+ZP2266,2020-10-12,North,Delhi,CUST207,Snacks,Lays Chips 100g,5,1164.78,220.06
+ZP2267,2023-06-06,North,Lucknow,CUST793,Bakery,Britannia Bread,5,1183.81,102.25
+ZP2268,2020-10-15,North,Chandigarh,CUST747,Fruits & Vegetables,Apples (1kg),1,730.9,131.5
+ZP2269,2023-12-25,East,Kolkata,CUST865,Groceries,Aashirvaad Atta 5kg,6,279.84,82.4
+ZP2270,2023-07-24,South,Hyderabad,CUST769,Snacks,Bingo Mad Angles 80g,1,1348.06,239.14
+ZP2271,2021-05-15,North,Lucknow,CUST987,Bakery,Britannia Bread,1,401.46,70.35
+ZP2272,2021-06-22,West,Pune,CUST861,Groceries,Aashirvaad Atta 5kg,2,934.32,64.97
+ZP2273,2021-01-14,East,Kolkata,CUST338,Dairy,Mother Dairy Curd 500g,3,758.88,209.7
+ZP2274,2023-02-24,East,Patna,CUST407,Dairy,Mother Dairy Curd 500g,6,1884.61,191.24
+ZP2275,2020-05-07,West,Ahmedabad,CUST537,Household,Lizol 500ml,2,1211.24,219.81
+ZP2276,2024-11-25,North,Chandigarh,CUST443,Bakery,Biscuits,6,754.04,98.77
+ZP2277,2022-12-11,North,Lucknow,CUST990,Household,Surf Excel 1kg,4,160.21,18.29
+ZP2278,2023-01-08,East,Bhubaneswar,CUST707,Household,Surf Excel 1kg,2,366.96,68.03
+ZP2279,2021-09-13,West,Ahmedabad,CUST384,Household,Surf Excel 1kg,4,731.86,123.74
+ZP2280,2023-08-27,West,Pune,CUST971,Beverages,Tropicana Juice 1L,2,970.65,230.62
+ZP2281,2020-09-14,East,Kolkata,CUST930,Personal Care,Colgate Toothpaste,2,1086.34,229.31
+ZP2282,2020-12-06,North,Delhi,CUST798,Groceries,Tata Salt 1kg,6,272.49,32.1
+ZP2283,2024-01-30,South,Hyderabad,CUST254,Bakery,Britannia Bread,2,451.77,78.59
+ZP2284,2024-09-10,North,Lucknow,CUST662,Snacks,Kurkure 90g,4,1108.18,157.19
+ZP2285,2024-02-27,West,Ahmedabad,CUST407,Beverages,Red Bull 250ml,1,1620.7,114.56
+ZP2286,2023-03-26,South,Bengaluru,CUST455,Snacks,Kurkure 90g,3,465.85,81.54
+ZP2287,2023-01-11,South,Chennai,CUST818,Household,Surf Excel 1kg,1,1010.34,293.28
+ZP2288,2021-12-18,North,Chandigarh,CUST870,Groceries,Aashirvaad Atta 5kg,5,1807.22,479.79
+ZP2289,2022-11-09,East,Patna,CUST784,Personal Care,Dove Soap,3,817.78,50.32
+ZP2290,2021-09-01,East,Bhubaneswar,CUST646,Dairy,Mother Dairy Curd 500g,6,757.54,170.06
+ZP2291,2023-08-04,West,Pune,CUST878,Dairy,Amul Milk 1L,5,1831.3,460.01
+ZP2292,2024-01-11,South,Hyderabad,CUST256,Fruits & Vegetables,Apples (1kg),5,1031.39,147.39
+ZP2293,2021-06-28,West,Ahmedabad,CUST698,Beverages,Tropicana Juice 1L,1,612.04,57.39
+ZP2294,2021-12-30,East,Kolkata,CUST825,Beverages,Coca Cola 2L,5,1988.16,214.1
+ZP2295,2021-02-01,North,Chandigarh,CUST119,Household,Surf Excel 1kg,2,476.55,119.13
+ZP2296,2023-08-23,South,Chennai,CUST604,Bakery,Cakes,4,700.39,99.13
+ZP2297,2022-09-16,North,Chandigarh,CUST617,Dairy,Amul Milk 1L,6,348.27,26.43
+ZP2298,2023-10-11,South,Bengaluru,CUST765,Snacks,Kurkure 90g,4,197.47,28.78
+ZP2299,2024-02-26,South,Hyderabad,CUST691,Beverages,Coca Cola 2L,4,1824.5,334.25
+ZP2300,2023-05-07,South,Bengaluru,CUST768,Fruits & Vegetables,Tomatoes (1kg),2,1708.94,229.55
+ZP2301,2023-09-08,East,Patna,CUST419,Bakery,Britannia Bread,3,1602.16,301.78
+ZP2302,2022-06-29,North,Delhi,CUST318,Bakery,Britannia Bread,1,95.42,9.38
+ZP2303,2020-05-06,South,Bengaluru,CUST655,Dairy,Amul Milk 1L,5,452.89,31.11
+ZP2304,2024-10-22,East,Bhubaneswar,CUST687,Household,Harpic Toilet Cleaner,4,780.71,197.85
+ZP2305,2021-04-07,East,Kolkata,CUST581,Fruits & Vegetables,Tomatoes (1kg),6,1758.92,475.21
+ZP2306,2023-11-22,North,Lucknow,CUST115,Household,Lizol 500ml,5,1565.87,301.82
+ZP2307,2023-05-24,West,Pune,CUST375,Fruits & Vegetables,Apples (1kg),5,1432.34,230.93
+ZP2308,2022-07-05,West,Ahmedabad,CUST374,Dairy,Amul Butter 100g,5,746.24,39.06
+ZP2309,2024-08-22,West,Mumbai,CUST742,Snacks,Kurkure 90g,5,268.06,25.83
+ZP2310,2024-04-23,North,Lucknow,CUST424,Household,Surf Excel 1kg,6,616.82,72.17
+ZP2311,2023-12-23,West,Pune,CUST970,Household,Harpic Toilet Cleaner,3,1057.66,141.59
+ZP2312,2023-07-29,East,Patna,CUST754,Bakery,Britannia Bread,3,131.82,11.04
+ZP2313,2023-08-30,East,Patna,CUST423,Personal Care,Colgate Toothpaste,6,1548.07,95.36
+ZP2314,2021-02-22,South,Bengaluru,CUST314,Fruits & Vegetables,Apples (1kg),2,179.52,50.81
+ZP2315,2024-05-06,West,Ahmedabad,CUST775,Fruits & Vegetables,Apples (1kg),5,1670.2,288.6
+ZP2316,2023-12-22,South,Hyderabad,CUST175,Bakery,Britannia Bread,2,1927.97,525.23
+ZP2317,2024-01-10,West,Pune,CUST386,Dairy,Mother Dairy Curd 500g,5,1259.68,238.12
+ZP2318,2024-01-28,North,Chandigarh,CUST819,Groceries,Tata Salt 1kg,6,196.24,37.93
+ZP2319,2021-11-17,West,Ahmedabad,CUST442,Personal Care,Clinic Plus Shampoo,1,1500.71,121.77
+ZP2320,2021-10-30,North,Delhi,CUST557,Bakery,Biscuits,2,1020.44,260.12
+ZP2321,2020-07-17,South,Hyderabad,CUST967,Groceries,Fortune Oil 1L,1,1796.48,461.97
+ZP2322,2020-12-20,East,Bhubaneswar,CUST742,Bakery,Britannia Bread,3,527.69,157.47
+ZP2323,2022-05-22,North,Lucknow,CUST165,Fruits & Vegetables,Tomatoes (1kg),6,1240.76,351.17
+ZP2324,2021-08-02,West,Pune,CUST883,Bakery,Cakes,4,1353.77,293.47
+ZP2325,2020-03-25,West,Pune,CUST129,Snacks,Lays Chips 100g,3,1855.25,418.64
+ZP2326,2022-11-15,North,Chandigarh,CUST899,Bakery,Biscuits,4,205.3,12.61
+ZP2327,2024-06-12,East,Kolkata,CUST690,Bakery,Biscuits,5,1806.78,234.83
+ZP2328,2020-01-19,South,Bengaluru,CUST430,Fruits & Vegetables,Tomatoes (1kg),4,1166.83,325.03
+ZP2329,2020-02-19,North,Lucknow,CUST941,Beverages,Red Bull 250ml,1,983.42,230.7
+ZP2330,2021-07-29,West,Ahmedabad,CUST955,Personal Care,Clinic Plus Shampoo,4,992.35,211.63
+ZP2331,2023-02-09,West,Pune,CUST508,Beverages,Red Bull 250ml,5,1794.36,344.31
+ZP2332,2020-07-14,West,Pune,CUST509,Dairy,Amul Butter 100g,5,1830.03,257.83
+ZP2333,2024-11-02,South,Hyderabad,CUST570,Dairy,Mother Dairy Curd 500g,5,311.78,74.45
+ZP2334,2022-09-17,East,Bhubaneswar,CUST946,Beverages,Tropicana Juice 1L,3,1774.62,398.63
+ZP2335,2021-10-04,South,Hyderabad,CUST586,Household,Lizol 500ml,2,1081.7,293.92
+ZP2336,2020-08-27,West,Pune,CUST687,Snacks,Lays Chips 100g,5,423.31,54.59
+ZP2337,2023-02-15,West,Mumbai,CUST412,Household,Lizol 500ml,3,1184.54,206.77
+ZP2338,2021-09-09,South,Chennai,CUST544,Dairy,Amul Milk 1L,2,322.49,45.65
+ZP2339,2020-03-09,East,Kolkata,CUST601,Bakery,Biscuits,4,1546.78,458.85
+ZP2340,2021-09-02,East,Kolkata,CUST305,Beverages,Coca Cola 2L,1,233.16,45.07
+ZP2341,2021-12-21,South,Hyderabad,CUST844,Fruits & Vegetables,Bananas (1kg),4,606.53,140.42
+ZP2342,2020-01-18,East,Kolkata,CUST985,Personal Care,Dove Soap,6,1642.63,249.98
+ZP2343,2023-09-30,North,Chandigarh,CUST255,Dairy,Amul Milk 1L,6,1555.1,299.83
+ZP2344,2022-07-20,South,Chennai,CUST928,Groceries,Fortune Oil 1L,2,862.97,245.34
+ZP2345,2024-09-14,South,Hyderabad,CUST698,Fruits & Vegetables,Tomatoes (1kg),6,526.84,98.13
+ZP2346,2020-09-07,East,Kolkata,CUST322,Fruits & Vegetables,Bananas (1kg),6,1729.27,308.34
+ZP2347,2021-06-23,North,Delhi,CUST192,Personal Care,Dove Soap,1,1055.24,200.24
+ZP2348,2021-02-13,East,Patna,CUST439,Bakery,Biscuits,5,1520.63,316.65
+ZP2349,2020-10-31,South,Chennai,CUST242,Bakery,Britannia Bread,4,68.3,6.53
+ZP2350,2021-11-29,South,Chennai,CUST650,Beverages,Coca Cola 2L,2,1571.64,227.3
+ZP2351,2023-05-12,North,Lucknow,CUST451,Bakery,Britannia Bread,3,1025.52,221.15
+ZP2352,2021-08-03,North,Lucknow,CUST667,Bakery,Biscuits,2,1453.17,206.05
+ZP2353,2024-03-09,West,Mumbai,CUST382,Beverages,Coca Cola 2L,5,615.83,143.26
+ZP2354,2021-05-27,North,Lucknow,CUST358,Groceries,Aashirvaad Atta 5kg,5,1360.37,388.25
+ZP2355,2021-04-12,North,Lucknow,CUST542,Personal Care,Colgate Toothpaste,6,1771.1,379.01
+ZP2356,2024-07-18,South,Bengaluru,CUST240,Bakery,Britannia Bread,6,446.96,97.41
+ZP2357,2023-11-20,East,Bhubaneswar,CUST787,Beverages,Red Bull 250ml,5,1976.87,291.67
+ZP2358,2024-12-16,North,Delhi,CUST663,Beverages,Red Bull 250ml,4,1588.89,400.77
+ZP2359,2022-11-17,East,Bhubaneswar,CUST510,Dairy,Amul Butter 100g,6,770.63,188.04
+ZP2360,2024-08-31,West,Pune,CUST161,Groceries,Aashirvaad Atta 5kg,1,459.11,35.53
+ZP2361,2022-06-08,North,Chandigarh,CUST783,Fruits & Vegetables,Tomatoes (1kg),4,145.45,15.01
+ZP2362,2022-07-18,North,Chandigarh,CUST722,Personal Care,Dove Soap,3,574.55,159.11
+ZP2363,2022-01-05,East,Patna,CUST711,Personal Care,Colgate Toothpaste,6,280.16,78.61
+ZP2364,2022-09-24,North,Delhi,CUST330,Bakery,Biscuits,4,770.56,45.09
+ZP2365,2024-08-31,North,Delhi,CUST277,Snacks,Lays Chips 100g,2,414.49,123.96
+ZP2366,2023-10-12,South,Bengaluru,CUST115,Groceries,Tata Salt 1kg,4,1895.54,558.62
+ZP2367,2020-09-13,East,Bhubaneswar,CUST244,Fruits & Vegetables,Tomatoes (1kg),1,1322.13,264.75
+ZP2368,2021-06-01,East,Patna,CUST309,Bakery,Cakes,1,1859.75,278.29
+ZP2369,2023-03-20,North,Lucknow,CUST502,Household,Lizol 500ml,4,812.85,129.03
+ZP2370,2022-10-10,East,Patna,CUST735,Snacks,Bingo Mad Angles 80g,2,1677.11,250.49
+ZP2371,2020-01-03,North,Delhi,CUST848,Bakery,Britannia Bread,4,574.91,61.7
+ZP2372,2024-05-30,West,Ahmedabad,CUST872,Groceries,Aashirvaad Atta 5kg,1,1966.57,256.36
+ZP2373,2023-06-06,East,Patna,CUST329,Personal Care,Dove Soap,3,776.48,152.77
+ZP2374,2023-01-09,North,Lucknow,CUST480,Bakery,Biscuits,5,1020.45,95.9
+ZP2375,2020-06-13,South,Bengaluru,CUST212,Bakery,Biscuits,6,1380.36,402.69
+ZP2376,2023-01-30,South,Chennai,CUST535,Groceries,Fortune Oil 1L,2,648.16,65.49
+ZP2377,2022-09-05,West,Ahmedabad,CUST395,Dairy,Amul Butter 100g,1,487.03,31.78
+ZP2378,2021-03-16,West,Ahmedabad,CUST123,Dairy,Amul Butter 100g,2,1645.16,390.42
+ZP2379,2021-05-15,West,Mumbai,CUST451,Groceries,Fortune Oil 1L,5,925.45,72.01
+ZP2380,2021-10-13,South,Bengaluru,CUST525,Beverages,Tropicana Juice 1L,6,933.26,166.95
+ZP2381,2020-06-18,North,Delhi,CUST588,Beverages,Coca Cola 2L,5,62.42,3.73
+ZP2382,2021-09-12,West,Pune,CUST683,Fruits & Vegetables,Tomatoes (1kg),6,623.11,144.97
+ZP2383,2021-08-21,East,Patna,CUST577,Household,Lizol 500ml,3,359.86,104.55
+ZP2384,2023-12-19,East,Patna,CUST653,Dairy,Amul Milk 1L,6,1662.64,310.38
+ZP2385,2022-10-03,East,Bhubaneswar,CUST260,Household,Surf Excel 1kg,1,1405.99,289.09
+ZP2386,2021-11-22,East,Patna,CUST678,Snacks,Kurkure 90g,5,1180.22,320.64
+ZP2387,2023-11-09,East,Patna,CUST365,Snacks,Kurkure 90g,1,1365.57,207.78
+ZP2388,2024-05-02,South,Hyderabad,CUST628,Beverages,Red Bull 250ml,1,1752.71,464.67
+ZP2389,2024-12-25,South,Bengaluru,CUST109,Groceries,Aashirvaad Atta 5kg,5,103.21,20.7
+ZP2390,2021-12-08,East,Bhubaneswar,CUST929,Beverages,Red Bull 250ml,1,1729.63,296.99
+ZP2391,2023-06-23,East,Bhubaneswar,CUST936,Household,Lizol 500ml,4,1762.52,310.69
+ZP2392,2020-05-31,East,Patna,CUST537,Snacks,Kurkure 90g,3,1041.23,154.65
+ZP2393,2024-07-12,North,Chandigarh,CUST994,Beverages,Red Bull 250ml,2,775.14,159.43
+ZP2394,2023-12-19,West,Ahmedabad,CUST878,Groceries,Aashirvaad Atta 5kg,2,1314.53,373.63
+ZP2395,2023-05-17,North,Lucknow,CUST669,Beverages,Red Bull 250ml,2,1329.18,207.68
+ZP2396,2021-06-15,North,Chandigarh,CUST672,Snacks,Kurkure 90g,3,1533.47,451.17
+ZP2397,2024-11-04,South,Bengaluru,CUST719,Bakery,Cakes,4,1827.43,291.05
+ZP2398,2024-10-21,South,Bengaluru,CUST953,Snacks,Kurkure 90g,1,1040.3,131.35
+ZP2399,2022-11-03,West,Pune,CUST503,Household,Surf Excel 1kg,6,1900.29,510.96
+ZP2400,2022-06-15,East,Kolkata,CUST618,Household,Surf Excel 1kg,6,463.77,51.77
+ZP2401,2022-11-06,North,Delhi,CUST285,Groceries,Aashirvaad Atta 5kg,2,159.12,19.92
+ZP2402,2022-07-08,East,Patna,CUST695,Fruits & Vegetables,Tomatoes (1kg),2,546.96,51.19
+ZP2403,2021-06-30,North,Delhi,CUST960,Bakery,Biscuits,4,518.08,86.03
+ZP2404,2020-04-19,South,Hyderabad,CUST297,Beverages,Tropicana Juice 1L,3,478.25,138.35
+ZP2405,2022-07-25,West,Mumbai,CUST518,Household,Surf Excel 1kg,2,113.95,27.55
+ZP2406,2024-04-15,South,Chennai,CUST471,Groceries,Tata Salt 1kg,3,102.93,17.55
+ZP2407,2021-03-08,West,Ahmedabad,CUST654,Fruits & Vegetables,Bananas (1kg),6,289.08,19.85
+ZP2408,2024-12-20,South,Hyderabad,CUST375,Personal Care,Dove Soap,1,1536.66,376.0
+ZP2409,2020-09-25,East,Patna,CUST343,Beverages,Tropicana Juice 1L,3,1869.05,534.5
+ZP2410,2024-04-20,North,Delhi,CUST558,Dairy,Amul Milk 1L,2,698.97,183.74
+ZP2411,2024-11-27,North,Delhi,CUST297,Fruits & Vegetables,Tomatoes (1kg),1,342.47,73.52
+ZP2412,2022-12-27,North,Delhi,CUST964,Household,Surf Excel 1kg,3,706.14,40.67
+ZP2413,2024-06-08,East,Bhubaneswar,CUST306,Beverages,Coca Cola 2L,2,601.11,170.62
+ZP2414,2022-09-08,South,Bengaluru,CUST131,Bakery,Cakes,6,1649.84,311.26
+ZP2415,2021-09-18,North,Chandigarh,CUST139,Bakery,Cakes,2,635.29,100.4
+ZP2416,2020-12-01,West,Mumbai,CUST655,Dairy,Amul Milk 1L,4,694.47,121.03
+ZP2417,2023-01-10,North,Delhi,CUST283,Dairy,Amul Milk 1L,1,1383.5,121.59
+ZP2418,2023-06-04,West,Pune,CUST850,Bakery,Cakes,3,1146.62,305.49
+ZP2419,2020-03-01,East,Kolkata,CUST670,Beverages,Red Bull 250ml,1,1648.27,491.34
+ZP2420,2024-05-10,East,Kolkata,CUST376,Personal Care,Clinic Plus Shampoo,3,434.39,83.11
+ZP2421,2024-11-20,West,Mumbai,CUST915,Household,Surf Excel 1kg,1,1498.88,272.69
+ZP2422,2023-03-22,East,Patna,CUST506,Snacks,Bingo Mad Angles 80g,1,115.8,33.23
+ZP2423,2024-10-21,West,Mumbai,CUST153,Personal Care,Dove Soap,1,1017.2,286.6
+ZP2424,2022-12-02,West,Pune,CUST598,Household,Lizol 500ml,6,376.41,112.67
+ZP2425,2022-07-11,South,Bengaluru,CUST807,Personal Care,Colgate Toothpaste,1,61.65,3.38
+ZP2426,2021-04-29,West,Pune,CUST846,Personal Care,Dove Soap,3,1483.1,223.32
+ZP2427,2020-08-02,North,Lucknow,CUST415,Dairy,Amul Butter 100g,1,129.71,22.2
+ZP2428,2023-11-12,East,Kolkata,CUST677,Dairy,Amul Butter 100g,2,435.64,47.89
+ZP2429,2023-09-24,South,Chennai,CUST689,Snacks,Kurkure 90g,3,341.06,99.45
+ZP2430,2021-09-06,South,Chennai,CUST724,Dairy,Amul Milk 1L,1,382.75,73.99
+ZP2431,2024-05-15,South,Bengaluru,CUST598,Bakery,Cakes,5,209.06,35.96
+ZP2432,2021-10-19,North,Delhi,CUST516,Dairy,Mother Dairy Curd 500g,2,602.78,148.27
+ZP2433,2023-01-19,North,Lucknow,CUST308,Bakery,Biscuits,2,207.9,37.78
+ZP2434,2020-01-28,West,Mumbai,CUST157,Groceries,Fortune Oil 1L,3,1605.85,287.21
+ZP2435,2024-03-19,East,Kolkata,CUST682,Snacks,Bingo Mad Angles 80g,5,453.94,106.92
+ZP2436,2020-11-15,East,Kolkata,CUST217,Personal Care,Clinic Plus Shampoo,1,410.68,63.67
+ZP2437,2023-04-11,South,Hyderabad,CUST510,Bakery,Cakes,6,1204.88,293.02
+ZP2438,2020-05-21,South,Bengaluru,CUST883,Snacks,Lays Chips 100g,2,1085.35,138.99
+ZP2439,2024-02-11,South,Bengaluru,CUST210,Snacks,Lays Chips 100g,5,1309.62,260.04
+ZP2440,2024-02-13,West,Ahmedabad,CUST173,Groceries,Tata Salt 1kg,3,1379.69,142.84
+ZP2441,2023-06-19,South,Bengaluru,CUST305,Fruits & Vegetables,Tomatoes (1kg),1,88.85,15.85
+ZP2442,2024-07-29,South,Bengaluru,CUST117,Personal Care,Dove Soap,4,1848.48,553.41
+ZP2443,2023-04-20,South,Bengaluru,CUST886,Snacks,Lays Chips 100g,1,1817.92,136.99
+ZP2444,2020-10-28,East,Kolkata,CUST665,Groceries,Aashirvaad Atta 5kg,5,296.72,70.85
+ZP2445,2021-10-11,East,Kolkata,CUST904,Household,Lizol 500ml,2,252.04,35.87
+ZP2446,2023-09-12,North,Chandigarh,CUST255,Bakery,Biscuits,1,1681.72,307.5
+ZP2447,2020-02-13,North,Delhi,CUST172,Dairy,Amul Milk 1L,1,78.77,6.72
+ZP2448,2024-01-22,North,Lucknow,CUST166,Groceries,Aashirvaad Atta 5kg,4,399.22,82.24
+ZP2449,2024-11-19,South,Bengaluru,CUST543,Personal Care,Colgate Toothpaste,3,910.26,150.16
+ZP2450,2021-10-14,North,Lucknow,CUST418,Snacks,Lays Chips 100g,2,697.29,139.25
+ZP2451,2022-09-17,East,Kolkata,CUST750,Personal Care,Colgate Toothpaste,3,775.44,58.76
+ZP2452,2021-05-26,South,Chennai,CUST225,Bakery,Biscuits,1,1539.23,361.84
+ZP2453,2024-01-24,South,Bengaluru,CUST873,Fruits & Vegetables,Tomatoes (1kg),2,1145.69,182.07
+ZP2454,2024-04-09,West,Pune,CUST333,Beverages,Red Bull 250ml,6,334.03,95.08
+ZP2455,2022-09-07,East,Patna,CUST712,Personal Care,Colgate Toothpaste,6,1993.4,371.63
+ZP2456,2023-02-01,East,Patna,CUST920,Household,Harpic Toilet Cleaner,2,1913.16,100.94
+ZP2457,2023-08-01,East,Bhubaneswar,CUST957,Personal Care,Clinic Plus Shampoo,2,1711.83,391.88
+ZP2458,2021-03-13,East,Bhubaneswar,CUST594,Personal Care,Clinic Plus Shampoo,5,992.98,288.75
+ZP2459,2020-10-23,South,Hyderabad,CUST536,Bakery,Biscuits,6,1475.65,289.23
+ZP2460,2023-02-26,South,Hyderabad,CUST353,Beverages,Coca Cola 2L,1,905.57,173.12
+ZP2461,2022-06-11,North,Chandigarh,CUST900,Groceries,Aashirvaad Atta 5kg,1,498.76,102.89
+ZP2462,2023-10-18,North,Delhi,CUST908,Groceries,Aashirvaad Atta 5kg,1,1060.53,207.43
+ZP2463,2021-09-19,East,Bhubaneswar,CUST112,Bakery,Biscuits,1,698.09,66.77
+ZP2464,2022-09-13,North,Chandigarh,CUST967,Bakery,Biscuits,6,337.92,66.3
+ZP2465,2023-12-22,East,Bhubaneswar,CUST247,Fruits & Vegetables,Tomatoes (1kg),6,1349.18,374.46
+ZP2466,2020-06-19,North,Delhi,CUST306,Personal Care,Dove Soap,2,1910.72,517.71
+ZP2467,2024-09-07,North,Lucknow,CUST907,Personal Care,Colgate Toothpaste,2,1239.58,316.44
+ZP2468,2024-03-13,West,Mumbai,CUST775,Beverages,Tropicana Juice 1L,2,1742.69,239.55
+ZP2469,2021-07-22,North,Delhi,CUST842,Beverages,Tropicana Juice 1L,3,1345.08,334.78
+ZP2470,2020-01-30,South,Chennai,CUST360,Fruits & Vegetables,Bananas (1kg),6,1110.07,87.46
+ZP2471,2022-08-26,West,Ahmedabad,CUST304,Fruits & Vegetables,Apples (1kg),1,222.26,27.53
+ZP2472,2023-06-20,West,Pune,CUST924,Groceries,Aashirvaad Atta 5kg,6,1539.5,106.17
+ZP2473,2022-03-22,North,Chandigarh,CUST926,Beverages,Tropicana Juice 1L,5,1519.37,251.44
+ZP2474,2022-02-26,West,Pune,CUST208,Fruits & Vegetables,Apples (1kg),1,476.8,97.17
+ZP2475,2023-07-29,West,Pune,CUST440,Beverages,Coca Cola 2L,1,1236.2,304.74
+ZP2476,2021-01-08,South,Hyderabad,CUST362,Bakery,Biscuits,1,1712.86,405.96
+ZP2477,2024-11-01,North,Delhi,CUST421,Household,Lizol 500ml,2,1975.66,172.54
+ZP2478,2020-09-06,West,Ahmedabad,CUST491,Dairy,Amul Milk 1L,1,1501.08,306.28
+ZP2479,2024-11-12,South,Chennai,CUST728,Snacks,Lays Chips 100g,2,211.71,26.58
+ZP2480,2024-03-12,West,Pune,CUST530,Dairy,Amul Milk 1L,1,557.27,139.58
+ZP2481,2024-07-09,West,Ahmedabad,CUST223,Personal Care,Colgate Toothpaste,5,1795.86,496.21
+ZP2482,2024-03-19,East,Kolkata,CUST789,Groceries,Tata Salt 1kg,6,1727.49,325.07
+ZP2483,2021-07-28,East,Patna,CUST897,Bakery,Britannia Bread,6,751.7,170.13
+ZP2484,2023-05-31,North,Lucknow,CUST284,Dairy,Amul Milk 1L,1,801.03,114.65
+ZP2485,2022-05-04,South,Chennai,CUST472,Personal Care,Clinic Plus Shampoo,1,238.33,65.3
+ZP2486,2022-06-26,South,Hyderabad,CUST633,Dairy,Amul Milk 1L,4,468.93,132.79
+ZP2487,2024-06-18,North,Delhi,CUST131,Dairy,Mother Dairy Curd 500g,6,402.33,119.05
+ZP2488,2024-05-29,North,Chandigarh,CUST828,Personal Care,Colgate Toothpaste,2,1963.4,184.51
+ZP2489,2023-07-02,South,Bengaluru,CUST798,Groceries,Fortune Oil 1L,5,1556.85,121.52
+ZP2490,2022-04-12,South,Hyderabad,CUST698,Household,Lizol 500ml,3,307.66,79.9
+ZP2491,2024-10-16,South,Chennai,CUST216,Dairy,Mother Dairy Curd 500g,4,1582.75,109.24
+ZP2492,2023-10-09,West,Ahmedabad,CUST495,Household,Surf Excel 1kg,4,1020.14,181.22
+ZP2493,2020-12-25,West,Mumbai,CUST959,Groceries,Fortune Oil 1L,3,1236.34,227.82
+ZP2494,2020-12-16,North,Lucknow,CUST192,Household,Lizol 500ml,6,1045.71,55.26
+ZP2495,2022-03-15,South,Hyderabad,CUST407,Fruits & Vegetables,Apples (1kg),5,1858.48,130.37
+ZP2496,2023-07-15,East,Kolkata,CUST467,Groceries,Fortune Oil 1L,4,828.62,101.62
+ZP2497,2020-08-27,West,Mumbai,CUST165,Snacks,Lays Chips 100g,6,1889.54,483.93
+ZP2498,2021-04-11,East,Bhubaneswar,CUST477,Dairy,Amul Milk 1L,2,181.7,13.68
+ZP2499,2024-11-07,West,Ahmedabad,CUST563,Fruits & Vegetables,Bananas (1kg),2,1055.43,145.97
+ZP2500,2022-03-11,North,Chandigarh,CUST440,Bakery,Biscuits,2,523.67,108.57
+ZP2501,2024-12-10,North,Lucknow,CUST892,Personal Care,Clinic Plus Shampoo,6,1484.84,196.72
+ZP2502,2022-10-12,West,Pune,CUST970,Household,Surf Excel 1kg,2,1339.35,83.36
+ZP2503,2023-05-05,West,Pune,CUST132,Household,Lizol 500ml,1,403.4,77.69
+ZP2504,2021-07-11,South,Chennai,CUST703,Dairy,Amul Butter 100g,1,1654.94,449.44
+ZP2505,2021-05-23,East,Patna,CUST432,Beverages,Tropicana Juice 1L,1,1466.86,368.02
+ZP2506,2022-10-16,North,Delhi,CUST207,Snacks,Lays Chips 100g,6,136.95,13.52
+ZP2507,2024-11-12,East,Kolkata,CUST893,Groceries,Aashirvaad Atta 5kg,6,395.6,69.53
+ZP2508,2024-12-26,North,Chandigarh,CUST984,Groceries,Tata Salt 1kg,2,1867.35,340.39
+ZP2509,2022-04-28,West,Mumbai,CUST708,Dairy,Amul Milk 1L,3,643.7,128.73
+ZP2510,2023-01-24,South,Bengaluru,CUST789,Beverages,Tropicana Juice 1L,1,1718.15,180.8
+ZP2511,2020-02-16,West,Ahmedabad,CUST460,Dairy,Amul Milk 1L,3,1855.31,131.65
+ZP2512,2022-01-20,South,Bengaluru,CUST931,Personal Care,Clinic Plus Shampoo,5,709.47,108.27
+ZP2513,2021-11-07,West,Pune,CUST680,Fruits & Vegetables,Tomatoes (1kg),2,808.61,46.28
+ZP2514,2024-04-26,East,Kolkata,CUST994,Dairy,Amul Milk 1L,2,1075.78,94.37
+ZP2515,2023-06-13,East,Patna,CUST753,Dairy,Amul Milk 1L,1,179.53,39.02
+ZP2516,2023-02-16,West,Pune,CUST444,Snacks,Bingo Mad Angles 80g,5,795.78,219.12
+ZP2517,2023-02-14,South,Bengaluru,CUST505,Personal Care,Dove Soap,3,736.64,147.65
+ZP2518,2023-05-10,East,Patna,CUST876,Fruits & Vegetables,Apples (1kg),4,292.53,30.37
+ZP2519,2020-08-19,North,Delhi,CUST857,Groceries,Tata Salt 1kg,3,1485.32,270.43
+ZP2520,2023-01-12,East,Patna,CUST908,Snacks,Kurkure 90g,5,280.64,37.91
+ZP2521,2020-11-28,East,Patna,CUST693,Personal Care,Colgate Toothpaste,3,1788.46,470.73
+ZP2522,2024-09-26,North,Delhi,CUST125,Beverages,Tropicana Juice 1L,5,1245.74,345.47
+ZP2523,2023-03-29,West,Mumbai,CUST828,Household,Harpic Toilet Cleaner,1,1691.36,249.22
+ZP2524,2022-06-26,South,Hyderabad,CUST740,Snacks,Kurkure 90g,1,584.43,117.7
+ZP2525,2021-05-22,South,Bengaluru,CUST774,Dairy,Amul Milk 1L,4,957.65,59.08
+ZP2526,2024-10-24,South,Hyderabad,CUST273,Dairy,Mother Dairy Curd 500g,1,1307.66,156.81
+ZP2527,2020-10-26,North,Chandigarh,CUST410,Beverages,Red Bull 250ml,6,1833.96,520.94
+ZP2528,2023-08-09,West,Pune,CUST540,Snacks,Bingo Mad Angles 80g,1,696.97,124.87
+ZP2529,2020-11-09,South,Hyderabad,CUST594,Groceries,Aashirvaad Atta 5kg,4,1493.71,420.85
+ZP2530,2024-07-18,North,Lucknow,CUST906,Household,Lizol 500ml,1,787.42,169.89
+ZP2531,2021-07-26,South,Chennai,CUST416,Personal Care,Colgate Toothpaste,1,1285.25,363.7
+ZP2532,2023-12-30,North,Lucknow,CUST744,Household,Lizol 500ml,4,1644.48,271.36
+ZP2533,2020-01-03,East,Patna,CUST703,Household,Harpic Toilet Cleaner,4,1329.87,385.1
+ZP2534,2024-06-20,South,Bengaluru,CUST842,Beverages,Coca Cola 2L,2,1269.1,261.94
+ZP2535,2021-08-22,West,Pune,CUST848,Fruits & Vegetables,Bananas (1kg),5,253.6,62.18
+ZP2536,2020-01-17,West,Mumbai,CUST778,Snacks,Bingo Mad Angles 80g,2,1723.8,213.16
+ZP2537,2024-03-12,North,Chandigarh,CUST780,Groceries,Fortune Oil 1L,1,1387.23,117.07
+ZP2538,2024-05-27,North,Delhi,CUST980,Fruits & Vegetables,Apples (1kg),1,302.17,79.67
+ZP2539,2024-07-25,West,Mumbai,CUST555,Snacks,Kurkure 90g,2,298.1,34.32
+ZP2540,2021-07-10,South,Chennai,CUST314,Groceries,Fortune Oil 1L,2,1972.3,565.39
+ZP2541,2021-12-18,North,Chandigarh,CUST622,Bakery,Cakes,6,1972.39,435.89
+ZP2542,2021-08-14,West,Ahmedabad,CUST910,Personal Care,Dove Soap,6,524.88,155.66
+ZP2543,2022-12-10,East,Patna,CUST116,Groceries,Aashirvaad Atta 5kg,3,1569.38,332.29
+ZP2544,2023-01-30,West,Pune,CUST729,Household,Lizol 500ml,3,1741.44,509.92
+ZP2545,2022-04-02,South,Chennai,CUST416,Bakery,Biscuits,2,1838.16,153.25
+ZP2546,2022-05-25,East,Bhubaneswar,CUST859,Personal Care,Colgate Toothpaste,2,142.76,24.0
+ZP2547,2023-08-24,West,Ahmedabad,CUST792,Dairy,Amul Milk 1L,3,1274.62,356.0
+ZP2548,2024-05-02,North,Delhi,CUST995,Dairy,Mother Dairy Curd 500g,3,751.29,191.02
+ZP2549,2024-11-14,North,Delhi,CUST547,Dairy,Amul Milk 1L,6,455.01,127.66
+ZP2550,2022-09-30,East,Bhubaneswar,CUST452,Bakery,Britannia Bread,5,166.2,47.86
+ZP2551,2020-11-13,East,Bhubaneswar,CUST750,Fruits & Vegetables,Apples (1kg),2,563.85,125.28
+ZP2552,2022-08-05,South,Bengaluru,CUST240,Personal Care,Clinic Plus Shampoo,1,1551.02,210.87
+ZP2553,2022-07-25,North,Lucknow,CUST757,Household,Harpic Toilet Cleaner,6,437.01,33.03
+ZP2554,2023-11-10,South,Bengaluru,CUST523,Dairy,Amul Butter 100g,2,223.64,25.2
+ZP2555,2021-05-08,South,Bengaluru,CUST636,Groceries,Fortune Oil 1L,4,830.61,99.11
+ZP2556,2021-02-05,North,Chandigarh,CUST665,Bakery,Biscuits,2,1021.1,82.3
+ZP2557,2020-10-20,West,Ahmedabad,CUST974,Personal Care,Colgate Toothpaste,6,237.43,65.2
+ZP2558,2021-02-04,North,Chandigarh,CUST912,Beverages,Red Bull 250ml,1,1341.17,88.98
+ZP2559,2020-03-08,West,Ahmedabad,CUST155,Groceries,Fortune Oil 1L,6,240.72,20.15
+ZP2560,2022-12-04,East,Patna,CUST497,Bakery,Cakes,3,1946.34,378.18
+ZP2561,2020-11-25,South,Hyderabad,CUST727,Household,Harpic Toilet Cleaner,4,646.6,82.35
+ZP2562,2020-11-11,East,Kolkata,CUST659,Fruits & Vegetables,Bananas (1kg),2,1163.66,325.05
+ZP2563,2022-05-05,North,Delhi,CUST343,Household,Surf Excel 1kg,6,1530.32,361.9
+ZP2564,2020-02-04,South,Hyderabad,CUST593,Fruits & Vegetables,Tomatoes (1kg),1,858.51,56.84
+ZP2565,2024-11-17,South,Chennai,CUST249,Beverages,Tropicana Juice 1L,2,1992.34,417.48
+ZP2566,2024-04-25,West,Ahmedabad,CUST792,Personal Care,Clinic Plus Shampoo,1,125.0,9.32
+ZP2567,2022-01-28,East,Kolkata,CUST960,Household,Surf Excel 1kg,4,360.46,24.81
+ZP2568,2023-12-04,North,Lucknow,CUST151,Fruits & Vegetables,Apples (1kg),4,1343.01,102.5
+ZP2569,2022-11-06,East,Bhubaneswar,CUST933,Fruits & Vegetables,Tomatoes (1kg),5,476.31,93.27
+ZP2570,2022-08-25,West,Ahmedabad,CUST374,Fruits & Vegetables,Bananas (1kg),5,300.69,15.88
+ZP2571,2021-07-12,East,Patna,CUST965,Bakery,Cakes,5,1920.66,292.45
+ZP2572,2023-06-19,North,Lucknow,CUST367,Personal Care,Dove Soap,6,495.08,142.54
+ZP2573,2021-11-06,North,Delhi,CUST277,Household,Surf Excel 1kg,3,875.23,66.68
+ZP2574,2021-10-03,West,Mumbai,CUST317,Groceries,Tata Salt 1kg,3,119.25,20.99
+ZP2575,2024-03-05,East,Bhubaneswar,CUST630,Bakery,Britannia Bread,5,845.55,153.04
+ZP2576,2024-07-20,West,Mumbai,CUST349,Household,Surf Excel 1kg,6,850.63,161.21
+ZP2577,2021-06-27,East,Bhubaneswar,CUST823,Household,Harpic Toilet Cleaner,6,1846.44,183.7
+ZP2578,2022-06-05,West,Ahmedabad,CUST624,Fruits & Vegetables,Tomatoes (1kg),2,1013.56,285.53
+ZP2579,2020-04-30,West,Mumbai,CUST876,Dairy,Amul Milk 1L,4,1966.87,119.9
+ZP2580,2023-09-01,West,Ahmedabad,CUST983,Beverages,Red Bull 250ml,6,668.29,159.63
+ZP2581,2022-07-05,South,Hyderabad,CUST158,Dairy,Amul Butter 100g,6,1696.86,385.75
+ZP2582,2022-09-22,South,Bengaluru,CUST235,Fruits & Vegetables,Apples (1kg),2,922.56,156.59
+ZP2583,2022-03-06,South,Chennai,CUST509,Household,Harpic Toilet Cleaner,5,824.14,159.98
+ZP2584,2021-02-26,West,Mumbai,CUST518,Groceries,Tata Salt 1kg,5,1490.87,407.59
+ZP2585,2020-12-07,North,Lucknow,CUST162,Snacks,Lays Chips 100g,2,1252.22,225.18
+ZP2586,2020-05-24,East,Bhubaneswar,CUST332,Bakery,Biscuits,4,1232.49,360.4
+ZP2587,2023-03-29,North,Lucknow,CUST530,Beverages,Coca Cola 2L,6,1573.7,234.96
+ZP2588,2021-03-02,East,Kolkata,CUST343,Beverages,Tropicana Juice 1L,5,726.21,162.36
+ZP2589,2024-05-20,East,Bhubaneswar,CUST574,Beverages,Coca Cola 2L,3,1860.74,198.53
+ZP2590,2021-12-21,South,Hyderabad,CUST119,Fruits & Vegetables,Tomatoes (1kg),6,1578.99,221.81
+ZP2591,2021-02-25,North,Chandigarh,CUST399,Snacks,Bingo Mad Angles 80g,2,1826.25,212.46
+ZP2592,2023-12-06,West,Ahmedabad,CUST928,Groceries,Fortune Oil 1L,5,918.68,61.39
+ZP2593,2022-03-22,West,Ahmedabad,CUST543,Groceries,Tata Salt 1kg,3,700.31,178.73
+ZP2594,2023-04-26,East,Patna,CUST663,Personal Care,Clinic Plus Shampoo,1,934.18,242.71
+ZP2595,2020-01-21,East,Patna,CUST579,Groceries,Fortune Oil 1L,2,1742.72,376.13
+ZP2596,2022-10-02,East,Patna,CUST767,Household,Surf Excel 1kg,6,997.41,155.85
+ZP2597,2022-09-04,East,Patna,CUST386,Groceries,Tata Salt 1kg,2,450.78,104.22
+ZP2598,2023-08-14,South,Bengaluru,CUST783,Bakery,Biscuits,6,1336.57,288.21
+ZP2599,2021-09-26,North,Chandigarh,CUST219,Snacks,Lays Chips 100g,6,1487.01,375.54
+ZP2600,2020-02-16,West,Mumbai,CUST453,Bakery,Cakes,4,1096.22,223.32
+ZP2601,2020-04-03,West,Pune,CUST707,Dairy,Amul Butter 100g,2,1078.83,257.7
+ZP2602,2023-08-31,East,Bhubaneswar,CUST839,Personal Care,Colgate Toothpaste,4,542.85,75.51
+ZP2603,2022-02-13,North,Chandigarh,CUST538,Fruits & Vegetables,Bananas (1kg),5,73.23,13.73
+ZP2604,2020-05-15,North,Lucknow,CUST825,Household,Harpic Toilet Cleaner,5,309.8,72.76
+ZP2605,2023-04-05,West,Mumbai,CUST528,Household,Harpic Toilet Cleaner,3,821.62,119.93
+ZP2606,2024-04-19,South,Hyderabad,CUST769,Dairy,Amul Milk 1L,2,446.34,107.45
+ZP2607,2023-07-04,East,Patna,CUST154,Snacks,Lays Chips 100g,3,273.03,30.34
+ZP2608,2020-06-13,West,Pune,CUST988,Groceries,Aashirvaad Atta 5kg,6,1101.1,221.69
+ZP2609,2021-08-11,East,Kolkata,CUST914,Beverages,Red Bull 250ml,4,1907.36,153.63
+ZP2610,2022-04-15,North,Delhi,CUST696,Personal Care,Dove Soap,5,342.5,67.2
+ZP2611,2021-04-08,South,Hyderabad,CUST214,Beverages,Coca Cola 2L,5,611.9,42.56
+ZP2612,2024-10-26,South,Chennai,CUST797,Fruits & Vegetables,Tomatoes (1kg),2,737.08,47.81
+ZP2613,2020-06-27,North,Lucknow,CUST271,Dairy,Amul Butter 100g,3,1215.9,190.41
+ZP2614,2023-08-05,South,Hyderabad,CUST596,Fruits & Vegetables,Apples (1kg),1,569.82,36.64
+ZP2615,2021-08-17,North,Lucknow,CUST759,Fruits & Vegetables,Bananas (1kg),1,246.09,23.8
+ZP2616,2022-03-28,South,Chennai,CUST853,Bakery,Biscuits,3,1544.3,234.11
+ZP2617,2022-01-26,South,Hyderabad,CUST499,Groceries,Aashirvaad Atta 5kg,2,752.2,141.59
+ZP2618,2022-05-02,West,Pune,CUST650,Beverages,Red Bull 250ml,3,361.41,31.34
+ZP2619,2021-06-28,West,Mumbai,CUST903,Household,Lizol 500ml,3,1686.01,354.37
+ZP2620,2021-06-03,South,Bengaluru,CUST543,Fruits & Vegetables,Tomatoes (1kg),6,677.77,156.95
+ZP2621,2022-06-22,South,Chennai,CUST999,Dairy,Amul Butter 100g,1,1264.42,264.99
+ZP2622,2021-12-01,East,Bhubaneswar,CUST660,Fruits & Vegetables,Apples (1kg),5,1168.76,226.32
+ZP2623,2023-01-03,South,Hyderabad,CUST475,Fruits & Vegetables,Bananas (1kg),4,547.42,58.42
+ZP2624,2022-03-22,North,Chandigarh,CUST797,Household,Lizol 500ml,2,770.74,84.82
+ZP2625,2020-08-07,North,Lucknow,CUST530,Beverages,Coca Cola 2L,2,404.49,60.34
+ZP2626,2024-12-16,East,Bhubaneswar,CUST405,Personal Care,Dove Soap,1,406.02,46.85
+ZP2627,2024-12-08,East,Kolkata,CUST185,Fruits & Vegetables,Bananas (1kg),5,293.14,17.0
+ZP2628,2020-06-25,South,Hyderabad,CUST889,Snacks,Bingo Mad Angles 80g,1,192.36,14.42
+ZP2629,2021-02-24,North,Chandigarh,CUST243,Dairy,Mother Dairy Curd 500g,6,697.97,129.62
+ZP2630,2022-03-13,South,Bengaluru,CUST912,Bakery,Britannia Bread,6,1099.59,229.23
+ZP2631,2024-04-20,West,Ahmedabad,CUST104,Household,Surf Excel 1kg,5,302.96,31.29
+ZP2632,2024-06-20,South,Bengaluru,CUST701,Personal Care,Clinic Plus Shampoo,1,696.93,189.25
+ZP2633,2022-09-12,East,Bhubaneswar,CUST420,Household,Lizol 500ml,4,1291.27,87.7
+ZP2634,2021-01-15,East,Kolkata,CUST815,Snacks,Lays Chips 100g,3,279.91,74.87
+ZP2635,2022-04-24,South,Bengaluru,CUST929,Beverages,Coca Cola 2L,5,794.05,222.52
+ZP2636,2022-04-04,North,Chandigarh,CUST581,Bakery,Britannia Bread,1,973.18,66.87
+ZP2637,2022-01-07,South,Hyderabad,CUST186,Household,Surf Excel 1kg,4,1532.9,166.07
+ZP2638,2022-07-21,North,Chandigarh,CUST988,Personal Care,Colgate Toothpaste,3,1414.58,259.84
+ZP2639,2021-03-04,South,Hyderabad,CUST592,Household,Surf Excel 1kg,5,1972.01,349.99
+ZP2640,2024-01-21,South,Chennai,CUST233,Snacks,Bingo Mad Angles 80g,6,1762.6,392.39
+ZP2641,2021-12-29,South,Bengaluru,CUST708,Personal Care,Colgate Toothpaste,6,1438.4,299.47
+ZP2642,2022-09-28,North,Lucknow,CUST682,Dairy,Amul Butter 100g,1,1954.4,503.99
+ZP2643,2023-10-26,North,Chandigarh,CUST168,Dairy,Mother Dairy Curd 500g,3,1841.31,434.72
+ZP2644,2023-01-27,North,Chandigarh,CUST723,Fruits & Vegetables,Bananas (1kg),5,1854.07,503.3
+ZP2645,2020-07-04,North,Lucknow,CUST650,Snacks,Lays Chips 100g,2,1273.13,318.05
+ZP2646,2022-10-07,South,Chennai,CUST488,Personal Care,Dove Soap,4,713.89,186.94
+ZP2647,2022-03-31,West,Pune,CUST771,Snacks,Kurkure 90g,1,734.26,198.7
+ZP2648,2021-09-13,North,Chandigarh,CUST964,Household,Harpic Toilet Cleaner,2,774.97,223.89
+ZP2649,2020-10-20,East,Kolkata,CUST163,Snacks,Kurkure 90g,2,1021.8,92.31
+ZP2650,2021-09-29,North,Lucknow,CUST916,Bakery,Biscuits,2,1494.95,345.01
+ZP2651,2021-02-20,South,Hyderabad,CUST777,Dairy,Amul Butter 100g,1,168.51,31.64
+ZP2652,2020-03-22,West,Pune,CUST398,Personal Care,Colgate Toothpaste,5,1109.21,175.0
+ZP2653,2020-07-26,South,Bengaluru,CUST232,Bakery,Britannia Bread,6,690.31,50.68
+ZP2654,2021-05-06,West,Pune,CUST382,Groceries,Fortune Oil 1L,5,221.49,16.76
+ZP2655,2023-07-04,East,Patna,CUST630,Groceries,Tata Salt 1kg,3,1881.2,256.94
+ZP2656,2023-10-22,South,Bengaluru,CUST414,Groceries,Fortune Oil 1L,2,1049.42,78.75
+ZP2657,2022-03-09,South,Hyderabad,CUST506,Bakery,Biscuits,4,437.83,99.6
+ZP2658,2022-01-16,South,Bengaluru,CUST878,Dairy,Mother Dairy Curd 500g,4,1853.44,177.57
+ZP2659,2023-08-26,North,Lucknow,CUST861,Snacks,Bingo Mad Angles 80g,1,1720.02,310.73
+ZP2660,2021-05-23,North,Lucknow,CUST231,Personal Care,Colgate Toothpaste,1,1430.95,157.89
+ZP2661,2023-12-27,North,Delhi,CUST245,Fruits & Vegetables,Apples (1kg),6,849.14,243.04
+ZP2662,2023-03-03,South,Chennai,CUST505,Beverages,Tropicana Juice 1L,4,904.76,231.37
+ZP2663,2020-07-03,North,Delhi,CUST795,Snacks,Kurkure 90g,6,1234.41,166.4
+ZP2664,2020-02-12,North,Delhi,CUST900,Bakery,Britannia Bread,5,1416.86,108.18
+ZP2665,2023-02-06,North,Lucknow,CUST467,Dairy,Mother Dairy Curd 500g,4,402.8,96.54
+ZP2666,2020-01-22,East,Bhubaneswar,CUST394,Personal Care,Dove Soap,6,276.08,66.19
+ZP2667,2020-11-04,North,Lucknow,CUST117,Fruits & Vegetables,Tomatoes (1kg),3,1333.27,242.38
+ZP2668,2022-10-07,North,Lucknow,CUST378,Snacks,Lays Chips 100g,4,1542.01,312.11
+ZP2669,2020-12-13,North,Delhi,CUST972,Fruits & Vegetables,Tomatoes (1kg),6,1298.35,223.41
+ZP2670,2020-11-14,West,Ahmedabad,CUST292,Beverages,Red Bull 250ml,3,268.4,64.22
+ZP2671,2024-09-23,East,Bhubaneswar,CUST706,Personal Care,Dove Soap,6,904.87,227.52
+ZP2672,2023-10-27,South,Chennai,CUST659,Groceries,Fortune Oil 1L,6,970.34,113.53
+ZP2673,2021-01-10,South,Chennai,CUST250,Beverages,Coca Cola 2L,2,1132.06,77.38
+ZP2674,2020-02-20,North,Lucknow,CUST274,Groceries,Tata Salt 1kg,2,1395.66,354.8
+ZP2675,2024-08-21,North,Chandigarh,CUST539,Household,Harpic Toilet Cleaner,3,1282.45,179.89
+ZP2676,2023-02-08,West,Pune,CUST493,Snacks,Bingo Mad Angles 80g,1,1359.76,239.02
+ZP2677,2021-07-25,East,Kolkata,CUST542,Groceries,Fortune Oil 1L,6,146.09,23.67
+ZP2678,2022-06-16,West,Ahmedabad,CUST860,Beverages,Tropicana Juice 1L,2,257.44,66.8
+ZP2679,2024-10-07,South,Bengaluru,CUST191,Snacks,Kurkure 90g,6,454.22,43.93
+ZP2680,2023-02-10,East,Kolkata,CUST819,Beverages,Red Bull 250ml,5,1476.51,358.36
+ZP2681,2021-01-17,North,Lucknow,CUST107,Snacks,Kurkure 90g,6,659.45,100.01
+ZP2682,2021-07-22,East,Patna,CUST750,Household,Surf Excel 1kg,2,810.15,230.86
+ZP2683,2024-11-29,South,Bengaluru,CUST455,Bakery,Cakes,1,1634.6,173.36
+ZP2684,2023-12-10,West,Ahmedabad,CUST156,Bakery,Cakes,1,854.5,253.76
+ZP2685,2022-03-05,West,Mumbai,CUST496,Bakery,Biscuits,2,292.74,72.96
+ZP2686,2021-12-04,North,Lucknow,CUST106,Snacks,Kurkure 90g,3,1743.96,314.97
+ZP2687,2023-10-11,West,Mumbai,CUST184,Personal Care,Dove Soap,2,781.16,228.73
+ZP2688,2022-03-25,East,Kolkata,CUST308,Fruits & Vegetables,Apples (1kg),4,150.79,20.24
+ZP2689,2020-01-03,East,Patna,CUST464,Beverages,Red Bull 250ml,5,1943.21,401.24
+ZP2690,2020-09-06,West,Ahmedabad,CUST806,Bakery,Biscuits,6,976.8,218.83
+ZP2691,2023-01-14,West,Ahmedabad,CUST107,Bakery,Cakes,5,460.23,116.55
+ZP2692,2020-02-21,West,Mumbai,CUST159,Snacks,Lays Chips 100g,5,857.98,210.78
+ZP2693,2023-11-24,North,Delhi,CUST731,Beverages,Coca Cola 2L,5,1086.96,247.38
+ZP2694,2020-08-05,South,Chennai,CUST567,Snacks,Lays Chips 100g,6,1938.35,515.79
+ZP2695,2022-09-02,East,Bhubaneswar,CUST812,Bakery,Britannia Bread,2,227.13,55.37
+ZP2696,2023-02-13,West,Mumbai,CUST496,Snacks,Bingo Mad Angles 80g,2,1346.62,344.23
+ZP2697,2021-06-19,South,Hyderabad,CUST236,Dairy,Amul Milk 1L,1,964.03,176.19
+ZP2698,2021-05-02,West,Ahmedabad,CUST925,Snacks,Lays Chips 100g,4,327.41,69.32
+ZP2699,2023-01-13,West,Ahmedabad,CUST600,Snacks,Kurkure 90g,5,370.58,28.97
+ZP2700,2023-04-05,West,Mumbai,CUST889,Snacks,Lays Chips 100g,1,1315.45,127.44
+ZP2701,2020-05-10,North,Delhi,CUST419,Snacks,Lays Chips 100g,6,322.39,17.19
+ZP2702,2020-11-25,East,Bhubaneswar,CUST524,Snacks,Lays Chips 100g,1,998.38,275.24
+ZP2703,2020-10-24,North,Chandigarh,CUST212,Bakery,Cakes,4,1344.64,181.16
+ZP2704,2023-09-17,East,Kolkata,CUST338,Snacks,Bingo Mad Angles 80g,4,1351.9,193.61
+ZP2705,2024-12-04,North,Delhi,CUST643,Fruits & Vegetables,Tomatoes (1kg),5,1678.05,89.83
+ZP2706,2021-03-29,West,Mumbai,CUST332,Household,Harpic Toilet Cleaner,4,1208.83,237.16
+ZP2707,2021-10-30,East,Kolkata,CUST717,Fruits & Vegetables,Tomatoes (1kg),2,1545.28,141.86
+ZP2708,2020-10-22,North,Delhi,CUST900,Groceries,Fortune Oil 1L,2,1304.74,259.2
+ZP2709,2024-06-11,East,Bhubaneswar,CUST886,Dairy,Amul Butter 100g,4,1705.29,469.42
+ZP2710,2024-10-12,West,Mumbai,CUST901,Snacks,Lays Chips 100g,3,801.96,183.55
+ZP2711,2022-02-14,West,Ahmedabad,CUST457,Fruits & Vegetables,Tomatoes (1kg),4,895.89,68.83
+ZP2712,2023-10-23,North,Delhi,CUST368,Household,Lizol 500ml,4,51.53,10.0
+ZP2713,2020-03-16,East,Patna,CUST717,Bakery,Cakes,3,199.86,16.28
+ZP2714,2022-09-09,West,Mumbai,CUST251,Beverages,Red Bull 250ml,6,963.04,122.02
+ZP2715,2024-11-30,East,Kolkata,CUST325,Personal Care,Clinic Plus Shampoo,1,1368.68,199.02
+ZP2716,2021-10-08,West,Ahmedabad,CUST997,Groceries,Aashirvaad Atta 5kg,6,1258.83,161.17
+ZP2717,2021-09-26,West,Mumbai,CUST836,Bakery,Britannia Bread,5,1641.32,90.88
+ZP2718,2024-11-11,West,Pune,CUST870,Groceries,Tata Salt 1kg,3,1731.22,188.63
+ZP2719,2021-03-14,West,Mumbai,CUST446,Dairy,Amul Butter 100g,2,1836.55,126.57
+ZP2720,2021-06-13,South,Bengaluru,CUST223,Dairy,Mother Dairy Curd 500g,4,375.51,74.34
+ZP2721,2024-05-16,North,Delhi,CUST304,Dairy,Amul Butter 100g,1,1300.54,335.35
+ZP2722,2024-08-22,South,Hyderabad,CUST786,Bakery,Britannia Bread,5,1198.8,261.79
+ZP2723,2020-10-04,East,Bhubaneswar,CUST517,Beverages,Coca Cola 2L,4,50.86,13.01
+ZP2724,2021-04-01,South,Hyderabad,CUST310,Personal Care,Clinic Plus Shampoo,3,596.18,77.83
+ZP2725,2021-12-20,East,Bhubaneswar,CUST381,Household,Harpic Toilet Cleaner,3,1666.98,483.62
+ZP2726,2024-08-15,South,Chennai,CUST607,Household,Harpic Toilet Cleaner,5,272.87,76.8
+ZP2727,2020-01-08,North,Chandigarh,CUST920,Beverages,Red Bull 250ml,4,1773.55,175.79
+ZP2728,2023-08-05,South,Chennai,CUST156,Dairy,Amul Milk 1L,6,1743.69,221.92
+ZP2729,2024-05-30,East,Bhubaneswar,CUST211,Fruits & Vegetables,Tomatoes (1kg),2,667.08,87.36
+ZP2730,2021-01-15,South,Hyderabad,CUST976,Dairy,Amul Butter 100g,5,545.57,75.62
+ZP2731,2021-12-17,West,Ahmedabad,CUST272,Personal Care,Clinic Plus Shampoo,6,110.6,29.9
+ZP2732,2023-06-18,West,Pune,CUST654,Fruits & Vegetables,Apples (1kg),3,1413.53,330.13
+ZP2733,2024-09-27,North,Delhi,CUST543,Snacks,Bingo Mad Angles 80g,5,829.88,143.97
+ZP2734,2024-11-02,West,Ahmedabad,CUST874,Dairy,Amul Butter 100g,3,847.18,106.83
+ZP2735,2021-05-02,West,Ahmedabad,CUST741,Dairy,Amul Milk 1L,4,315.04,18.91
+ZP2736,2021-01-25,North,Chandigarh,CUST237,Beverages,Tropicana Juice 1L,5,1438.15,188.79
+ZP2737,2020-09-02,North,Chandigarh,CUST141,Household,Harpic Toilet Cleaner,3,110.78,11.86
+ZP2738,2022-10-31,South,Hyderabad,CUST291,Household,Surf Excel 1kg,2,1041.18,249.1
+ZP2739,2022-12-14,West,Pune,CUST459,Dairy,Amul Milk 1L,5,1493.59,326.85
+ZP2740,2023-06-14,South,Hyderabad,CUST696,Groceries,Tata Salt 1kg,5,913.51,223.77
+ZP2741,2020-05-19,North,Delhi,CUST111,Dairy,Amul Milk 1L,6,763.93,77.01
+ZP2742,2023-09-11,North,Lucknow,CUST497,Dairy,Mother Dairy Curd 500g,5,296.34,27.3
+ZP2743,2023-02-12,West,Mumbai,CUST615,Personal Care,Clinic Plus Shampoo,1,1059.73,89.06
+ZP2744,2021-07-24,West,Ahmedabad,CUST748,Fruits & Vegetables,Bananas (1kg),3,372.06,23.43
+ZP2745,2020-12-16,North,Lucknow,CUST718,Beverages,Red Bull 250ml,1,1841.27,426.84
+ZP2746,2022-05-24,North,Delhi,CUST959,Bakery,Cakes,6,1972.49,253.13
+ZP2747,2023-11-26,North,Lucknow,CUST978,Beverages,Tropicana Juice 1L,2,168.39,12.83
+ZP2748,2020-06-09,West,Pune,CUST142,Bakery,Cakes,2,1441.04,153.06
+ZP2749,2022-09-09,South,Chennai,CUST757,Beverages,Red Bull 250ml,1,801.95,100.15
+ZP2750,2022-08-29,North,Chandigarh,CUST497,Snacks,Bingo Mad Angles 80g,6,1435.13,124.49
+ZP2751,2021-08-06,West,Mumbai,CUST747,Groceries,Aashirvaad Atta 5kg,1,1668.72,307.86
+ZP2752,2020-01-16,West,Mumbai,CUST952,Household,Lizol 500ml,2,798.17,69.53
+ZP2753,2021-11-21,South,Bengaluru,CUST668,Groceries,Aashirvaad Atta 5kg,5,348.95,28.14
+ZP2754,2021-10-08,North,Chandigarh,CUST443,Snacks,Bingo Mad Angles 80g,1,1902.81,428.5
+ZP2755,2024-08-23,North,Delhi,CUST190,Household,Lizol 500ml,3,1521.57,373.01
+ZP2756,2023-10-27,East,Bhubaneswar,CUST165,Snacks,Lays Chips 100g,4,1198.17,176.0
+ZP2757,2020-07-12,South,Chennai,CUST612,Groceries,Aashirvaad Atta 5kg,6,1890.43,543.5
+ZP2758,2024-06-11,West,Mumbai,CUST754,Dairy,Mother Dairy Curd 500g,2,1207.66,354.53
+ZP2759,2022-03-02,North,Delhi,CUST485,Personal Care,Clinic Plus Shampoo,6,1821.41,279.66
+ZP2760,2020-04-20,North,Delhi,CUST327,Beverages,Tropicana Juice 1L,3,60.38,6.66
+ZP2761,2021-04-09,North,Chandigarh,CUST931,Household,Lizol 500ml,5,670.57,196.45
+ZP2762,2024-05-17,West,Ahmedabad,CUST245,Groceries,Aashirvaad Atta 5kg,3,214.57,12.54
+ZP2763,2022-08-09,South,Hyderabad,CUST748,Beverages,Red Bull 250ml,6,192.27,19.57
+ZP2764,2021-05-01,West,Pune,CUST491,Fruits & Vegetables,Bananas (1kg),6,118.42,13.36
+ZP2765,2022-05-20,West,Pune,CUST982,Beverages,Red Bull 250ml,6,617.32,122.46
+ZP2766,2020-02-23,East,Bhubaneswar,CUST505,Dairy,Mother Dairy Curd 500g,5,1336.02,225.66
+ZP2767,2022-08-28,South,Chennai,CUST470,Snacks,Kurkure 90g,2,95.89,5.66
+ZP2768,2020-12-17,North,Delhi,CUST175,Dairy,Mother Dairy Curd 500g,1,874.95,162.12
+ZP2769,2021-05-04,West,Ahmedabad,CUST345,Household,Lizol 500ml,2,444.71,47.85
+ZP2770,2023-08-28,North,Lucknow,CUST477,Fruits & Vegetables,Tomatoes (1kg),6,873.5,225.18
+ZP2771,2020-01-06,West,Ahmedabad,CUST266,Household,Harpic Toilet Cleaner,5,416.56,41.14
+ZP2772,2022-06-12,North,Delhi,CUST555,Household,Surf Excel 1kg,1,1482.26,355.84
+ZP2773,2023-05-05,North,Delhi,CUST455,Snacks,Kurkure 90g,4,900.83,247.04
+ZP2774,2022-06-05,North,Lucknow,CUST353,Fruits & Vegetables,Tomatoes (1kg),1,1404.4,217.3
+ZP2775,2021-12-01,East,Bhubaneswar,CUST996,Bakery,Britannia Bread,1,104.08,8.44
+ZP2776,2020-10-27,North,Lucknow,CUST343,Bakery,Britannia Bread,1,1331.45,74.08
+ZP2777,2020-05-16,West,Pune,CUST799,Beverages,Red Bull 250ml,4,1110.95,311.47
+ZP2778,2021-03-23,South,Bengaluru,CUST171,Groceries,Fortune Oil 1L,5,1613.94,309.52
+ZP2779,2020-05-27,South,Chennai,CUST799,Beverages,Coca Cola 2L,2,1013.26,212.89
+ZP2780,2023-04-10,East,Kolkata,CUST285,Beverages,Red Bull 250ml,4,1053.03,232.72
+ZP2781,2024-05-02,East,Bhubaneswar,CUST375,Snacks,Kurkure 90g,1,1159.3,216.04
+ZP2782,2021-08-05,North,Delhi,CUST871,Snacks,Lays Chips 100g,1,1154.14,174.17
+ZP2783,2020-06-12,East,Patna,CUST711,Groceries,Aashirvaad Atta 5kg,2,827.3,212.74
+ZP2784,2021-08-25,East,Bhubaneswar,CUST483,Fruits & Vegetables,Bananas (1kg),2,1291.36,146.02
+ZP2785,2021-06-26,South,Chennai,CUST266,Snacks,Kurkure 90g,3,1979.82,393.64
+ZP2786,2023-07-21,East,Kolkata,CUST249,Snacks,Lays Chips 100g,6,779.95,68.72
+ZP2787,2020-08-12,West,Pune,CUST182,Beverages,Tropicana Juice 1L,2,1154.45,141.0
+ZP2788,2020-01-28,East,Patna,CUST142,Bakery,Cakes,6,373.92,41.84
+ZP2789,2020-03-08,South,Chennai,CUST688,Dairy,Amul Butter 100g,3,1841.69,222.81
+ZP2790,2020-09-28,West,Mumbai,CUST705,Groceries,Aashirvaad Atta 5kg,3,543.38,83.7
+ZP2791,2023-07-25,North,Delhi,CUST572,Fruits & Vegetables,Tomatoes (1kg),2,851.98,166.03
+ZP2792,2021-05-22,East,Bhubaneswar,CUST341,Groceries,Aashirvaad Atta 5kg,5,743.97,178.13
+ZP2793,2023-05-15,North,Lucknow,CUST573,Personal Care,Colgate Toothpaste,3,1311.84,138.59
+ZP2794,2022-04-22,North,Chandigarh,CUST238,Groceries,Fortune Oil 1L,3,1293.99,180.92
+ZP2795,2023-09-25,East,Kolkata,CUST796,Snacks,Lays Chips 100g,3,1762.96,157.65
+ZP2796,2024-06-11,North,Lucknow,CUST600,Dairy,Amul Milk 1L,3,1112.62,285.44
+ZP2797,2020-10-10,South,Bengaluru,CUST107,Fruits & Vegetables,Bananas (1kg),1,1997.08,569.83
+ZP2798,2022-03-16,East,Patna,CUST867,Beverages,Red Bull 250ml,6,227.52,17.68
+ZP2799,2023-04-14,East,Bhubaneswar,CUST774,Personal Care,Colgate Toothpaste,6,1378.55,138.1
+ZP2800,2020-04-10,South,Hyderabad,CUST901,Fruits & Vegetables,Apples (1kg),4,1882.49,346.69
+ZP2801,2022-06-01,North,Delhi,CUST206,Beverages,Red Bull 250ml,1,807.17,43.32
+ZP2802,2020-09-02,West,Ahmedabad,CUST711,Groceries,Tata Salt 1kg,4,1288.31,288.37
+ZP2803,2024-12-29,South,Hyderabad,CUST214,Fruits & Vegetables,Bananas (1kg),5,135.48,38.65
+ZP2804,2023-04-19,South,Chennai,CUST519,Fruits & Vegetables,Apples (1kg),2,705.26,148.47
+ZP2805,2024-10-22,East,Kolkata,CUST704,Fruits & Vegetables,Tomatoes (1kg),4,764.93,122.03
+ZP2806,2023-06-30,South,Hyderabad,CUST433,Bakery,Biscuits,2,1181.9,238.48
+ZP2807,2020-07-09,East,Kolkata,CUST972,Personal Care,Colgate Toothpaste,6,1356.01,104.58
+ZP2808,2022-11-08,South,Chennai,CUST495,Snacks,Bingo Mad Angles 80g,2,1279.97,184.4
+ZP2809,2020-12-10,South,Chennai,CUST792,Beverages,Red Bull 250ml,6,1022.35,60.61
+ZP2810,2020-09-03,North,Delhi,CUST396,Dairy,Amul Milk 1L,3,1053.96,143.98
+ZP2811,2021-05-02,West,Ahmedabad,CUST200,Bakery,Britannia Bread,6,339.42,81.22
+ZP2812,2023-01-14,West,Pune,CUST345,Dairy,Amul Milk 1L,3,865.4,173.44
+ZP2813,2024-01-11,East,Patna,CUST459,Dairy,Mother Dairy Curd 500g,6,296.15,30.87
+ZP2814,2024-08-25,North,Delhi,CUST194,Beverages,Red Bull 250ml,3,405.87,105.85
+ZP2815,2022-12-31,East,Bhubaneswar,CUST594,Household,Surf Excel 1kg,5,713.18,84.68
+ZP2816,2023-10-21,North,Chandigarh,CUST170,Personal Care,Clinic Plus Shampoo,4,1126.52,337.05
+ZP2817,2020-03-09,North,Chandigarh,CUST597,Dairy,Amul Milk 1L,6,1438.44,340.0
+ZP2818,2022-07-20,West,Pune,CUST729,Beverages,Tropicana Juice 1L,6,1818.91,402.43
+ZP2819,2021-04-11,West,Mumbai,CUST214,Bakery,Biscuits,2,602.94,158.56
+ZP2820,2024-09-16,East,Kolkata,CUST265,Household,Lizol 500ml,3,121.54,20.05
+ZP2821,2021-08-20,East,Kolkata,CUST132,Bakery,Cakes,3,927.34,48.86
+ZP2822,2021-07-15,North,Chandigarh,CUST532,Dairy,Mother Dairy Curd 500g,1,1037.72,144.21
+ZP2823,2022-08-12,West,Ahmedabad,CUST886,Bakery,Cakes,3,443.48,30.3
+ZP2824,2023-05-31,West,Mumbai,CUST623,Snacks,Lays Chips 100g,5,492.6,73.81
+ZP2825,2020-06-24,South,Bengaluru,CUST979,Snacks,Kurkure 90g,3,318.02,56.25
+ZP2826,2020-07-24,South,Hyderabad,CUST153,Beverages,Coca Cola 2L,4,1058.97,274.57
+ZP2827,2024-11-17,East,Patna,CUST873,Fruits & Vegetables,Apples (1kg),6,550.48,62.24
+ZP2828,2020-11-28,West,Mumbai,CUST991,Bakery,Britannia Bread,2,787.8,160.28
+ZP2829,2023-07-15,South,Hyderabad,CUST612,Personal Care,Clinic Plus Shampoo,2,1443.07,149.2
+ZP2830,2024-07-02,West,Ahmedabad,CUST635,Household,Harpic Toilet Cleaner,6,1251.11,229.62
+ZP2831,2022-10-21,North,Delhi,CUST218,Personal Care,Dove Soap,3,1994.53,195.62
+ZP2832,2021-05-03,North,Delhi,CUST110,Dairy,Amul Milk 1L,3,1982.44,154.33
+ZP2833,2021-12-07,South,Bengaluru,CUST874,Household,Surf Excel 1kg,1,497.74,49.89
+ZP2834,2024-01-31,East,Bhubaneswar,CUST709,Groceries,Aashirvaad Atta 5kg,6,1742.92,224.81
+ZP2835,2022-07-02,South,Bengaluru,CUST803,Household,Harpic Toilet Cleaner,4,1040.98,108.02
+ZP2836,2020-06-17,North,Lucknow,CUST843,Bakery,Britannia Bread,1,1560.95,220.42
+ZP2837,2020-05-12,North,Delhi,CUST252,Personal Care,Clinic Plus Shampoo,5,191.41,47.0
+ZP2838,2022-03-31,East,Bhubaneswar,CUST215,Fruits & Vegetables,Tomatoes (1kg),5,1064.89,198.64
+ZP2839,2021-08-10,North,Lucknow,CUST819,Household,Harpic Toilet Cleaner,6,371.33,85.45
+ZP2840,2024-12-27,West,Pune,CUST236,Dairy,Mother Dairy Curd 500g,2,1816.48,95.3
+ZP2841,2023-02-08,East,Patna,CUST528,Beverages,Tropicana Juice 1L,6,1288.53,345.58
+ZP2842,2021-09-06,East,Patna,CUST417,Dairy,Mother Dairy Curd 500g,3,1242.64,349.73
+ZP2843,2023-12-28,South,Bengaluru,CUST586,Groceries,Tata Salt 1kg,4,1867.13,108.14
+ZP2844,2021-05-27,West,Mumbai,CUST289,Dairy,Amul Butter 100g,5,493.35,122.21
+ZP2845,2021-12-12,East,Bhubaneswar,CUST786,Groceries,Tata Salt 1kg,5,883.99,263.6
+ZP2846,2022-03-12,West,Mumbai,CUST210,Personal Care,Clinic Plus Shampoo,2,1564.58,386.99
+ZP2847,2024-12-06,North,Chandigarh,CUST235,Snacks,Bingo Mad Angles 80g,1,755.27,171.05
+ZP2848,2023-10-17,North,Chandigarh,CUST123,Groceries,Aashirvaad Atta 5kg,2,1826.97,395.28
+ZP2849,2024-09-29,South,Hyderabad,CUST904,Fruits & Vegetables,Apples (1kg),5,1125.04,84.61
+ZP2850,2023-11-13,West,Ahmedabad,CUST695,Household,Surf Excel 1kg,2,1343.52,363.32
+ZP2851,2023-05-26,West,Mumbai,CUST962,Snacks,Kurkure 90g,5,228.36,44.62
+ZP2852,2023-09-16,South,Chennai,CUST831,Fruits & Vegetables,Bananas (1kg),4,1532.72,117.5
+ZP2853,2021-09-13,North,Chandigarh,CUST242,Fruits & Vegetables,Tomatoes (1kg),4,241.28,35.31
+ZP2854,2022-10-25,South,Chennai,CUST489,Fruits & Vegetables,Bananas (1kg),4,1972.29,165.94
+ZP2855,2022-10-04,East,Kolkata,CUST846,Snacks,Bingo Mad Angles 80g,1,1412.95,126.53
+ZP2856,2020-08-06,South,Hyderabad,CUST650,Dairy,Mother Dairy Curd 500g,3,182.24,32.23
+ZP2857,2024-05-03,South,Chennai,CUST161,Dairy,Amul Butter 100g,3,1200.33,154.51
+ZP2858,2022-01-10,East,Bhubaneswar,CUST127,Household,Surf Excel 1kg,3,1446.4,139.05
+ZP2859,2020-12-07,West,Mumbai,CUST446,Bakery,Biscuits,3,240.72,28.64
+ZP2860,2020-07-20,North,Chandigarh,CUST557,Dairy,Mother Dairy Curd 500g,1,972.18,183.56
+ZP2861,2021-10-22,West,Ahmedabad,CUST594,Dairy,Amul Milk 1L,6,1979.42,481.69
+ZP2862,2020-10-23,West,Ahmedabad,CUST885,Personal Care,Dove Soap,3,1446.28,147.66
+ZP2863,2023-10-07,West,Ahmedabad,CUST589,Fruits & Vegetables,Bananas (1kg),4,1475.78,148.96
+ZP2864,2022-06-16,East,Bhubaneswar,CUST891,Groceries,Aashirvaad Atta 5kg,1,944.3,94.38
+ZP2865,2024-11-17,West,Ahmedabad,CUST215,Personal Care,Colgate Toothpaste,6,1028.49,140.18
+ZP2866,2022-07-06,South,Hyderabad,CUST120,Dairy,Amul Butter 100g,2,1567.4,129.78
+ZP2867,2023-07-02,North,Lucknow,CUST639,Groceries,Tata Salt 1kg,4,198.18,14.49
+ZP2868,2021-01-08,West,Pune,CUST393,Dairy,Amul Butter 100g,5,60.93,9.43
+ZP2869,2023-11-11,North,Lucknow,CUST477,Snacks,Kurkure 90g,4,1286.48,267.63
+ZP2870,2024-07-22,South,Hyderabad,CUST821,Fruits & Vegetables,Tomatoes (1kg),2,784.91,52.41
+ZP2871,2020-02-16,North,Delhi,CUST820,Dairy,Amul Milk 1L,3,1793.26,457.69
+ZP2872,2021-05-08,East,Kolkata,CUST967,Bakery,Cakes,3,969.73,79.23
+ZP2873,2022-10-16,North,Chandigarh,CUST232,Household,Surf Excel 1kg,3,1954.28,326.63
+ZP2874,2024-01-23,West,Pune,CUST158,Beverages,Coca Cola 2L,2,1037.39,161.77
+ZP2875,2024-07-23,East,Kolkata,CUST877,Bakery,Cakes,1,263.41,75.0
+ZP2876,2022-12-18,North,Lucknow,CUST954,Personal Care,Colgate Toothpaste,4,1807.62,151.74
+ZP2877,2023-01-21,South,Hyderabad,CUST563,Groceries,Fortune Oil 1L,1,892.57,75.53
+ZP2878,2023-06-18,East,Kolkata,CUST257,Dairy,Mother Dairy Curd 500g,6,729.48,184.23
+ZP2879,2020-01-24,East,Bhubaneswar,CUST835,Snacks,Bingo Mad Angles 80g,5,70.04,18.39
+ZP2880,2022-07-21,North,Delhi,CUST814,Fruits & Vegetables,Bananas (1kg),3,1905.38,128.84
+ZP2881,2024-12-14,West,Pune,CUST353,Dairy,Mother Dairy Curd 500g,2,986.07,242.84
+ZP2882,2024-05-30,South,Chennai,CUST642,Household,Lizol 500ml,4,567.37,95.95
+ZP2883,2022-03-12,West,Pune,CUST352,Fruits & Vegetables,Tomatoes (1kg),6,1339.34,268.96
+ZP2884,2023-08-06,West,Ahmedabad,CUST811,Bakery,Britannia Bread,3,1459.29,175.78
+ZP2885,2021-12-13,East,Patna,CUST710,Bakery,Biscuits,1,259.08,29.2
+ZP2886,2023-10-27,South,Chennai,CUST986,Household,Harpic Toilet Cleaner,4,413.2,75.1
+ZP2887,2022-10-08,South,Hyderabad,CUST992,Bakery,Cakes,5,872.27,124.04
+ZP2888,2023-04-25,East,Patna,CUST770,Fruits & Vegetables,Apples (1kg),2,181.33,52.61
+ZP2889,2024-01-02,South,Chennai,CUST104,Beverages,Tropicana Juice 1L,6,647.72,132.79
+ZP2890,2020-03-10,West,Ahmedabad,CUST175,Dairy,Amul Butter 100g,2,901.99,95.84
+ZP2891,2024-10-01,West,Ahmedabad,CUST123,Household,Harpic Toilet Cleaner,5,190.07,12.63
+ZP2892,2023-03-22,West,Pune,CUST203,Fruits & Vegetables,Bananas (1kg),4,212.32,26.81
+ZP2893,2023-04-07,North,Chandigarh,CUST234,Snacks,Lays Chips 100g,4,1614.86,268.75
+ZP2894,2022-03-15,East,Patna,CUST805,Beverages,Red Bull 250ml,2,360.95,57.44
+ZP2895,2023-11-23,East,Bhubaneswar,CUST619,Beverages,Coca Cola 2L,5,677.02,148.48
+ZP2896,2022-07-27,East,Bhubaneswar,CUST564,Dairy,Amul Milk 1L,6,86.0,18.92
+ZP2897,2023-06-19,North,Lucknow,CUST696,Bakery,Cakes,4,127.41,11.85
+ZP2898,2020-02-27,South,Hyderabad,CUST997,Household,Harpic Toilet Cleaner,2,321.11,32.97
+ZP2899,2024-03-19,East,Patna,CUST452,Personal Care,Clinic Plus Shampoo,1,787.23,78.7
+ZP2900,2021-02-23,East,Bhubaneswar,CUST809,Snacks,Lays Chips 100g,1,815.1,179.56
+ZP2901,2024-01-14,East,Kolkata,CUST456,Fruits & Vegetables,Apples (1kg),1,1279.23,305.66
+ZP2902,2021-12-16,South,Bengaluru,CUST453,Groceries,Fortune Oil 1L,5,1885.69,528.62
+ZP2903,2024-01-08,North,Chandigarh,CUST837,Personal Care,Clinic Plus Shampoo,5,542.48,57.16
+ZP2904,2020-11-10,West,Ahmedabad,CUST784,Dairy,Amul Butter 100g,3,1246.39,211.21
+ZP2905,2021-10-13,South,Bengaluru,CUST773,Fruits & Vegetables,Tomatoes (1kg),4,447.72,97.9
+ZP2906,2020-06-06,West,Pune,CUST117,Household,Surf Excel 1kg,2,1278.26,355.75
+ZP2907,2023-09-05,East,Bhubaneswar,CUST331,Dairy,Amul Milk 1L,3,1235.15,277.66
+ZP2908,2021-05-03,North,Lucknow,CUST336,Snacks,Lays Chips 100g,6,379.61,100.63
+ZP2909,2022-02-23,North,Chandigarh,CUST294,Fruits & Vegetables,Apples (1kg),6,907.04,250.92
+ZP2910,2020-02-25,East,Patna,CUST474,Fruits & Vegetables,Bananas (1kg),3,858.96,73.88
+ZP2911,2020-01-15,North,Delhi,CUST925,Fruits & Vegetables,Bananas (1kg),2,793.8,55.52
+ZP2912,2022-07-24,North,Chandigarh,CUST391,Household,Surf Excel 1kg,5,56.57,11.09
+ZP2913,2020-09-28,North,Lucknow,CUST779,Groceries,Fortune Oil 1L,2,918.06,241.52
+ZP2914,2023-04-13,West,Ahmedabad,CUST820,Bakery,Cakes,1,581.62,53.71
+ZP2915,2021-04-27,East,Kolkata,CUST187,Beverages,Red Bull 250ml,3,997.71,271.48
+ZP2916,2022-03-11,South,Hyderabad,CUST237,Household,Harpic Toilet Cleaner,1,115.76,11.07
+ZP2917,2021-01-26,North,Delhi,CUST586,Dairy,Amul Milk 1L,2,1788.73,351.29
+ZP2918,2023-07-25,North,Lucknow,CUST110,Groceries,Tata Salt 1kg,1,243.38,20.32
+ZP2919,2022-02-15,North,Delhi,CUST979,Bakery,Biscuits,3,1741.5,96.96
+ZP2920,2023-06-08,South,Bengaluru,CUST975,Fruits & Vegetables,Apples (1kg),5,1867.75,465.92
+ZP2921,2021-08-12,West,Mumbai,CUST263,Fruits & Vegetables,Apples (1kg),3,1376.74,159.9
+ZP2922,2021-10-10,West,Mumbai,CUST609,Snacks,Lays Chips 100g,5,871.01,237.2
+ZP2923,2022-04-17,South,Bengaluru,CUST308,Beverages,Tropicana Juice 1L,1,1470.62,181.18
+ZP2924,2021-03-24,North,Chandigarh,CUST829,Personal Care,Colgate Toothpaste,3,1241.07,198.89
+ZP2925,2024-09-11,West,Mumbai,CUST237,Household,Surf Excel 1kg,6,1397.56,90.9
+ZP2926,2024-07-19,North,Chandigarh,CUST861,Snacks,Lays Chips 100g,3,631.63,175.5
+ZP2927,2024-10-28,East,Bhubaneswar,CUST480,Groceries,Fortune Oil 1L,3,484.07,49.9
+ZP2928,2022-02-26,East,Patna,CUST975,Household,Harpic Toilet Cleaner,2,1039.61,114.4
+ZP2929,2021-02-14,East,Kolkata,CUST901,Groceries,Fortune Oil 1L,3,1250.86,64.12
+ZP2930,2023-02-18,South,Chennai,CUST103,Fruits & Vegetables,Bananas (1kg),5,316.14,60.85
+ZP2931,2022-09-01,West,Ahmedabad,CUST848,Personal Care,Clinic Plus Shampoo,3,948.68,156.16
+ZP2932,2020-05-09,East,Kolkata,CUST754,Snacks,Bingo Mad Angles 80g,3,492.08,128.17
+ZP2933,2021-03-26,East,Bhubaneswar,CUST810,Fruits & Vegetables,Tomatoes (1kg),3,1937.7,173.03
+ZP2934,2024-04-27,East,Kolkata,CUST790,Household,Lizol 500ml,1,1570.68,390.9
+ZP2935,2023-12-20,East,Patna,CUST711,Snacks,Lays Chips 100g,1,1633.03,244.59
+ZP2936,2020-12-09,South,Hyderabad,CUST301,Snacks,Lays Chips 100g,5,1948.32,203.32
+ZP2937,2021-07-14,West,Pune,CUST398,Snacks,Bingo Mad Angles 80g,3,283.82,36.08
+ZP2938,2021-01-06,North,Lucknow,CUST728,Groceries,Fortune Oil 1L,4,1202.15,270.75
+ZP2939,2024-03-29,South,Chennai,CUST617,Household,Surf Excel 1kg,5,1858.25,401.93
+ZP2940,2023-12-22,South,Chennai,CUST803,Personal Care,Colgate Toothpaste,4,1846.65,399.0
+ZP2941,2024-09-04,East,Patna,CUST651,Personal Care,Colgate Toothpaste,3,137.15,9.56
+ZP2942,2023-11-09,West,Pune,CUST648,Personal Care,Clinic Plus Shampoo,4,584.89,153.85
+ZP2943,2023-10-13,West,Pune,CUST983,Snacks,Lays Chips 100g,2,131.33,10.06
+ZP2944,2023-03-16,South,Bengaluru,CUST405,Groceries,Aashirvaad Atta 5kg,5,1267.3,379.93
+ZP2945,2022-05-08,South,Bengaluru,CUST662,Fruits & Vegetables,Bananas (1kg),5,1246.39,178.7
+ZP2946,2022-05-24,North,Chandigarh,CUST289,Dairy,Amul Milk 1L,6,95.09,26.06
+ZP2947,2022-06-20,South,Hyderabad,CUST529,Snacks,Lays Chips 100g,4,1902.26,423.11
+ZP2948,2024-12-26,East,Bhubaneswar,CUST646,Bakery,Biscuits,6,571.18,145.75
+ZP2949,2022-12-11,South,Bengaluru,CUST612,Bakery,Britannia Bread,2,80.53,5.81
+ZP2950,2024-10-09,North,Lucknow,CUST731,Groceries,Tata Salt 1kg,6,1788.82,381.24
+ZP2951,2022-03-03,East,Kolkata,CUST780,Personal Care,Dove Soap,3,236.83,51.67
+ZP2952,2024-06-24,North,Delhi,CUST264,Bakery,Cakes,3,1836.19,516.81
+ZP2953,2021-06-17,North,Chandigarh,CUST702,Personal Care,Colgate Toothpaste,1,886.34,183.28
+ZP2954,2022-08-27,East,Kolkata,CUST556,Beverages,Red Bull 250ml,3,1044.76,164.9
+ZP2955,2021-08-22,South,Bengaluru,CUST166,Bakery,Britannia Bread,5,1583.9,347.72
+ZP2956,2021-04-01,East,Patna,CUST884,Personal Care,Clinic Plus Shampoo,2,1967.0,279.95
+ZP2957,2024-04-12,South,Bengaluru,CUST524,Dairy,Amul Milk 1L,3,688.39,57.48
+ZP2958,2022-12-04,West,Mumbai,CUST647,Personal Care,Dove Soap,6,1337.09,349.03
+ZP2959,2021-10-03,East,Bhubaneswar,CUST462,Fruits & Vegetables,Tomatoes (1kg),4,283.29,83.96
+ZP2960,2023-06-06,South,Bengaluru,CUST422,Bakery,Cakes,4,1953.76,508.08
+ZP2961,2023-09-26,South,Hyderabad,CUST249,Dairy,Amul Butter 100g,5,1251.09,184.09
+ZP2962,2020-03-25,North,Lucknow,CUST295,Household,Harpic Toilet Cleaner,6,1533.36,334.62
+ZP2963,2022-07-02,North,Chandigarh,CUST957,Snacks,Kurkure 90g,2,1098.24,255.22
+ZP2964,2023-02-04,South,Chennai,CUST265,Personal Care,Dove Soap,4,1637.05,111.66
+ZP2965,2024-09-19,South,Chennai,CUST495,Fruits & Vegetables,Tomatoes (1kg),5,498.14,106.76
+ZP2966,2023-02-22,West,Pune,CUST191,Fruits & Vegetables,Bananas (1kg),3,1858.02,279.33
+ZP2967,2024-07-26,North,Delhi,CUST205,Groceries,Tata Salt 1kg,1,1568.12,377.23
+ZP2968,2021-07-23,West,Pune,CUST624,Bakery,Cakes,4,366.27,56.53
+ZP2969,2020-04-07,South,Chennai,CUST675,Dairy,Mother Dairy Curd 500g,5,1506.99,298.53
+ZP2970,2023-10-01,South,Hyderabad,CUST453,Household,Surf Excel 1kg,3,124.44,18.98
+ZP2971,2020-08-13,West,Pune,CUST302,Snacks,Kurkure 90g,5,1182.62,68.91
+ZP2972,2020-12-21,East,Kolkata,CUST454,Dairy,Amul Milk 1L,6,1360.58,80.19
+ZP2973,2024-07-17,South,Hyderabad,CUST836,Groceries,Aashirvaad Atta 5kg,5,231.6,21.58
+ZP2974,2021-08-22,South,Bengaluru,CUST586,Groceries,Fortune Oil 1L,2,1538.07,329.31
+ZP2975,2023-05-02,North,Chandigarh,CUST510,Fruits & Vegetables,Apples (1kg),5,871.6,93.45
+ZP2976,2020-11-21,East,Bhubaneswar,CUST481,Beverages,Tropicana Juice 1L,4,1877.72,451.5
+ZP2977,2021-08-12,West,Ahmedabad,CUST483,Groceries,Tata Salt 1kg,4,1371.49,83.92
+ZP2978,2024-10-28,South,Bengaluru,CUST523,Household,Surf Excel 1kg,2,1116.9,197.37
+ZP2979,2022-03-07,North,Delhi,CUST424,Groceries,Fortune Oil 1L,6,791.84,132.18
+ZP2980,2022-08-27,North,Lucknow,CUST340,Fruits & Vegetables,Apples (1kg),3,751.91,72.87
+ZP2981,2023-12-30,East,Patna,CUST274,Dairy,Mother Dairy Curd 500g,5,1769.01,215.69
+ZP2982,2022-09-02,North,Lucknow,CUST940,Beverages,Tropicana Juice 1L,5,1429.51,394.29
+ZP2983,2022-12-09,North,Lucknow,CUST931,Household,Surf Excel 1kg,2,82.38,15.86
+ZP2984,2022-04-15,West,Ahmedabad,CUST613,Groceries,Aashirvaad Atta 5kg,2,295.44,52.89
+ZP2985,2021-12-23,East,Bhubaneswar,CUST315,Bakery,Cakes,4,1369.14,161.0
+ZP2986,2022-06-26,North,Lucknow,CUST902,Personal Care,Clinic Plus Shampoo,5,525.94,150.87
+ZP2987,2022-12-19,North,Lucknow,CUST480,Beverages,Red Bull 250ml,1,711.79,111.72
+ZP2988,2023-02-01,West,Ahmedabad,CUST133,Snacks,Lays Chips 100g,6,1518.54,410.53
+ZP2989,2023-02-07,North,Delhi,CUST889,Fruits & Vegetables,Tomatoes (1kg),3,765.69,208.1
+ZP2990,2023-12-12,North,Delhi,CUST193,Groceries,Fortune Oil 1L,6,119.02,25.48
+ZP2991,2023-06-24,North,Chandigarh,CUST510,Household,Lizol 500ml,2,1423.13,284.52
+ZP2992,2020-11-02,North,Chandigarh,CUST405,Beverages,Tropicana Juice 1L,5,62.21,10.52
+ZP2993,2021-03-13,East,Bhubaneswar,CUST970,Personal Care,Clinic Plus Shampoo,2,1043.48,145.72
+ZP2994,2022-05-25,West,Pune,CUST708,Groceries,Fortune Oil 1L,2,1444.13,214.91
+ZP2995,2020-04-04,South,Hyderabad,CUST391,Dairy,Amul Milk 1L,2,1355.99,325.58
+ZP2996,2022-03-04,West,Pune,CUST661,Personal Care,Colgate Toothpaste,2,1814.94,435.56
+ZP2997,2020-08-12,North,Lucknow,CUST241,Dairy,Amul Milk 1L,4,1129.2,284.01
+ZP2998,2024-12-24,West,Ahmedabad,CUST837,Bakery,Biscuits,6,73.99,12.9
+ZP2999,2021-07-27,South,Chennai,CUST859,Groceries,Aashirvaad Atta 5kg,1,738.19,110.45
+ZP3000,2021-02-24,West,Mumbai,CUST841,Fruits & Vegetables,Tomatoes (1kg),1,1668.57,416.15
