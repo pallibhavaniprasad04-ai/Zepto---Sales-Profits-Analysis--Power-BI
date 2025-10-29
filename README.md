@@ -1,3 +1,5 @@
+**Zepto Sales & Profitability Analysis Dashboard (2020–2024)| PowerBI Project**
+
 ![image alt](https://github.com/pallibhavaniprasad04-ai/Zepto---Sales-Profits-Analysis--Power-BI/blob/main/Screenshot%202025-10-29%20220520.png)
 Key Insights
 
