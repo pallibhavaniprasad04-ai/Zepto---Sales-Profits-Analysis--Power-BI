@@ -12,11 +12,11 @@ It helps each team make better decisions — like what products to promote, wher
 
 
 ## 🎯 Objectives
-- ## 📊 Track Sales & Profit Trends – Analyze year-wise performance and identify growth patterns.
-- ## 🛒 Evaluate Product Categories – Find out which categories contribute the most to sales and profit.
-- ## 💰 Measure Profitability – Understand profit margin and profitability by category and city.
-- ## 📈 Calculate YoY Growth – Measure how the business performs year-over-year.
-- ## 📍 Support Decision-Making – Provide insights to management for better marketing, operations, and inventory planning.
+- #### 📊 Track Sales & Profit Trends – Analyze year-wise performance and identify growth patterns.
+- ##### 🛒 Evaluate Product Categories – Find out which categories contribute the most to sales and profit.
+- ##### 💰 Measure Profitability – Understand profit margin and profitability by category and city.
+- ##### 📈 Calculate YoY Growth – Measure how the business performs year-over-year.
+- ##### 📍 Support Decision-Making – Provide insights to management for better marketing, operations, and inventory planning.
 
 ## 🧰 Tools & Techniques
 - **Tool Used:** Power BI  
