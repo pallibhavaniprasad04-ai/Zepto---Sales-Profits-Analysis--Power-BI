@@ -62,12 +62,12 @@ Gathered Zepto sales data (2020–2024) including Order Date, Category, Product,
  
 ## 📈 Dashboard Insights 
    
--   1.**Yearly Growth**:  Sales show a steady upward trend from 2020 to 2024, with noticeable spikes post-2022 indicating recovery and expansion.
--  2.**Product Category Impact**: Grocery and Dairy categories generate the largest portion of total sales, while Personal Care items yield the highest profit margins.    
--  3. **Profitability Insight**: Profit margin averages between 18–25% across years, showing stable operational efficiency.
--  4. **Top Products**: Top-performing products contribute the most total profit.
--  5. **YoY Growth**: Average YoY growth rate ranges between 12–18%, with 2023–2024 being the strongest performing year.
--  6.**Customer Buying Pattern**: Customers tend to buy daily-use items (like milk, snacks, and groceries) repeatedly.
+-   **Yearly Growth**:  Sales show a steady upward trend from 2020 to 2024, with noticeable spikes post-2022 indicating recovery and expansion.
+-  **Product Category Impact**: Grocery and Dairy categories generate the largest portion of total sales, while Personal Care items yield the highest profit margins.    
+-   **Profitability Insight**: Profit margin averages between 18–25% across years, showing stable operational efficiency.
+-   **Top Products**: Top-performing products contribute the most total profit.
+-   **YoY Growth**: Average YoY growth rate ranges between 12–18%, with 2023–2024 being the strongest performing year.
+-  **Customer Buying Pattern**: Customers tend to buy daily-use items (like milk, snacks, and groceries) repeatedly.
 
 
 ## 🚀 Business Impact
