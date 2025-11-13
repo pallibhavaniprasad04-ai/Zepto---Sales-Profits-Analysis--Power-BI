@@ -42,12 +42,12 @@ Gathered Zepto sales data (2020–2024) including Order Date, Category, Product,
 
  ### 4️⃣ **Create Visuals**
   - Built visuals for:
-   **Line Chart (Sales Trend),
-     Pie Chart (Category Share),
-     Bar Chart (Top Products),
-     Table (City Wise Sales&Profits)
-     Line&Column Chart (Region over Sales & Profits) 
-     and KPI Cards.**
+ - **Line Chart (Sales Trend),
+ -  Pie Chart (Category Share),
+ - Bar Chart (Top Products),
+ - Table (City Wise Sales&Profits)
+  - Line&Column Chart (Region over Sales & Profits) 
+  - and KPI Cards.**
 
 
  ## 📊 Key Performance Indicators (KPIs)
